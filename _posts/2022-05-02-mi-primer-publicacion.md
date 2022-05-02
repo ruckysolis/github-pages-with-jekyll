@@ -17,3 +17,11 @@ Tomé dos tutoriales hoy:
 
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 - [Github Pages](https://lab.github.com/githubtraining/github-pages)
+
+## Pero ¿Que dices?
+
+- GitHub es una plataforma de desarrollo colaborativo para alojar proyectos utilizando el sistema de control de versiones Git.
+- Jekyll es un generador simple para sitios web estáticos con capacidades de blog; adecuado para sitios web personales, de proyecto o de organizaciones.
+- GitHub Actions es una plataforma de integración y despliegue continuos (IC/DC) que te permite automatizar tu mapa de compilación, pruebas y despliegue. 
+- Un desarrollador Full Stack es el encargado de manejar cada uno de los aspectos relacionados con la creación y el mantenimiento de una aplicación web.
+- JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, ​ basado en prototipos, imperativo, débilmente tipado y dinámico.
