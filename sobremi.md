@@ -1,5 +1,5 @@
 ---
-title: "Sobre mi"
+title: "Sobre mí"
 ---
 
-Esto es para saber si agrega nuevo link
+Por hacer
