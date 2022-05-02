@@ -8,3 +8,15 @@ Experimentando me topé con un tutorial donde indicaba como crear un blog con Je
 En general, el código de este repositorio es mínimo, no existe aquí la plantilla o el tema para personalizar el diseño del blog.
 
 También por primera vez enlacé un dominio personalizado a un repositorio de Github y funcionó muy bien. Me sorprende la velocidad en que carga ahora este blog.
+
+## Introducción a Github
+
+Hice un curso rápido para github, entendí varios conceptos.
+
+Sobre todo tenía dudas de como puede funcionar issues.
+Issues fue traducido como "propuestas"
+
+Llamandolo como propuestas se entiende mucho más.
+Ahí se pueden documentar detalles que se puedan crear, eliminar o modificar.
+
+También aprendí como crear una nueva rama y mezclarla todo dentro del mismo repositorio.
