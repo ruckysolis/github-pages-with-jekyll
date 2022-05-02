@@ -9,4 +9,14 @@ title: "Sobre mí"
 - Certificado en Maestria en Comunicación en Tecnologías Educativas. Generación 2010-2012
 - Actualmente estudiando Licenciatura en Derecho en Universidad Veracruzana Región Poza Rica-Tuxpan. Desde 2020
 
+## Cursos terminados 2022
+
+- [El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho](https://www.coursera.org/learn/legaltech/)
+- [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+- [Github Pages](https://lab.github.com/githubtraining/github-pages)
+ 
+ 
+### Cursando
+- [Launch X - Formación de Developers](https://launchx.rocks)
+
 Redes sociales en [este enlace](https://linktr.ee/ruckysolis). 
