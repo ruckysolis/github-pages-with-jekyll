@@ -19,4 +19,14 @@ title: "Sobre mí"
 ### Cursando
 - [Launch X - Formación de Developers](https://launchx.rocks)
 
-Redes sociales en [este enlace](https://linktr.ee/ruckysolis). 
+También me puedes encontrar en:
+
+- [Grupo de Telegram](https://t.me/+UUbaa45AyTCRaA8I)
+- [Telegram @ruckysolis](https://t.me/ruckysolis)
+- [Instagram @ruckysolis](https://www.instagram.com/ruckysolis/)
+- [TikTok](https://www.tiktok.com/@ruckysolis)
+- [Twitter](https://twitter.com/ruckysolis)
+- [Discord](https://discord.gg/fTcp2gyZh4)
+
+
+Este blog existe desde Mayo 1, 2022
