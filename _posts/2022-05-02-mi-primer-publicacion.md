@@ -18,7 +18,7 @@ Tomé dos tutoriales hoy:
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 - [Github Pages](https://lab.github.com/githubtraining/github-pages)
 
-**Actualización:**
+**Actualización 05/02/2022:**
 Siendo super honesto, ya me perdí con lo de launchx, no me siento mal, al contrario, me da gusto saber que hay mucho más por saber y mucho de lo aprendido le estoy encontrando utilidad, este blog inicialmente se hizo como curiosidad a lo visto en una clase. Aunque muchos conceptos no entendí, muchos otros sí me dejan la idea para desarrollarla.
 
 ## Pero ¿Que dices?
