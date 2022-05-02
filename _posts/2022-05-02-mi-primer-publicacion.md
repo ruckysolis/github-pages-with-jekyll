@@ -9,3 +9,11 @@ En general, el código de este repositorio es mínimo, no existe aquí la planti
 
 También por primera vez enlacé un dominio personalizado a un repositorio de Github y funcionó muy bien. Me sorprende la velocidad en que carga ahora este blog.
 
+## Lo estudiado hoy
+
+Terminé de ver la semana 4 del curso de full stack javascript de launchx de Microsoft, aún me falta por hacer la tarea.
+
+Tomé dos tutoriales hoy:
+
+- [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+- [Github Pages](https://lab.github.com/githubtraining/github-pages)
