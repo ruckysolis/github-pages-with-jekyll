@@ -1,3 +1,4 @@
-desconozco como modificar esto, supongo que es on markdown?
-
-#Hola!
+---
+title: "Mi titulo"
+date: 2022-05-01
+---
