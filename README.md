@@ -1,5 +1,5 @@
 # Bienvenido a mi blog
 
-Todo esto se puede ver en ruckysolis.com 
+El blog se puede visualizar [este enlace](ruckysolis.com)
 
 Lo pude hacer gracias al Laboratorio de Github.
