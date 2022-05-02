@@ -13,3 +13,6 @@ Lo leído hoy fue:
 - [Construyendo una Startup en la Industria Legal](https://medium.com/astec/construyendo-una-startup-en-la-industria-legal-b60e5c1fc412)
 - [La Década en Legaltech: los 10 Desarrollos Más Importantes de 2010 a 2020](https://medium.com/astec/la-d%C3%A9cada-en-legaltech-los-10-desarrollos-m%C3%A1s-importantes-de-2010-a-2020-852ddab4cf1)
 - [¿Cómo Desarrollar un Producto Legal?](https://medium.com/astec/c%C3%B3mo-desarrollar-un-producto-legal-315ea868f37)
+
+Hoy terminé este tutorial:
+- [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
