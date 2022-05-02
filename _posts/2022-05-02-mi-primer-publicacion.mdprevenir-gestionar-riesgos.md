@@ -1,6 +1,6 @@
 ---
 title: "¿Prevenir ó gestionar riesgos?"
-date: 2022-05-02
+date: 2022-05-01
 ---
 
 Federico Ast escribe interesantes artículos de Legaltech. Esto lo encontré en la quinta semana del curso "[El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho"](https://www.coursera.org/learn/legaltech)
