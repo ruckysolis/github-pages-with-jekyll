@@ -14,6 +14,7 @@ title: "Sobre mí"
 - [El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho](https://www.coursera.org/learn/legaltech/)
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 - [Github Pages](https://lab.github.com/githubtraining/github-pages)
+- [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
  
  
 ### Cursando
