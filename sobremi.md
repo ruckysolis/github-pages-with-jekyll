@@ -11,12 +11,13 @@ title: "Sobre mí"
 
 ## Cursos terminados 2022
 
-- [El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho](https://www.coursera.org/learn/legaltech/)
-- [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
-- [Github Pages](https://lab.github.com/githubtraining/github-pages)
 - [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
- 
- 
+- [El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho](https://www.coursera.org/learn/legaltech/)
+- [Github Pages](https://lab.github.com/githubtraining/github-pages)
+- [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+- [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)
+
+
 ### Cursando
 - [Launch X - Formación de Developers](https://launchx.rocks)
 
