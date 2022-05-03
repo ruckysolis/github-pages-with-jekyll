@@ -19,5 +19,9 @@ Lo cual también acierta con mi pensamiento que *legaltech* apenas se está defi
 
 Sin duda estamos viviendo un momento muy interesante en el tema  por que buscamos un despegue mientras estamos armando la nave.
 
+## Derecho Práctico
+
+Me encontré con este [excelente canal español en Youtube donde hablan sobre *legaltech*](https://www.youtube.com/c/DerechoPr%C3%A1ctico), buenísimo lo que se está haciendo en España, por muy desarrollados que estén, pareciera un tema de nicho, hasta este momento tienen 842 suscriptores, estoy seguro que al paso del tiempo esos números subirán.
+
 Hoy terminé el tutorial:
 [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)
