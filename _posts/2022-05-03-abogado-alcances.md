@@ -1,5 +1,5 @@
 ---
-title: "Los alcances de un abogado en la era digital
+title: "Los alcances de un abogado en la era digital"
 date: 2022-05-03
 ---
 
