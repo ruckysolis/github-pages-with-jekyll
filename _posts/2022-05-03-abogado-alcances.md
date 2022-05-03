@@ -3,7 +3,7 @@ title: "Los alcances de un abogado en la era digital"
 date: 2022-05-03
 ---
 
-[Alicia Figueroa Romero](https://www.instagram.com/aliciafig/) quien en su perfil dice que asesora a clientes a solucionar problemas legales, entrevistó a [Beliza Petit] (https://www.instagram.com/belizapetit/) , ella es Project Manager en Transformación Digital, CEO de [corpo.iuris](https://www.instagram.com/corpo.iuris/) y hablaron de ***legaltech***
+[Alicia Figueroa Romero](https://www.instagram.com/aliciafig/) quien en su perfil dice que asesora a clientes a solucionar problemas legales, entrevistó a [Beliza Petit](https://www.instagram.com/belizapetit/) , ella es Project Manager en Transformación Digital, CEO de [corpo.iuris](https://www.instagram.com/corpo.iuris/) y hablaron de ***legaltech***
 
 - [Entrevista](https://www.instagram.com/tv/Cc8JjSLBpF9/?igshid=YmMyMTA2M2Y=)
 
