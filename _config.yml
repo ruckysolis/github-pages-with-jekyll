@@ -6,7 +6,13 @@ description: Tratando de enseñar un poco de legaltech sin perder el humor.
 # social links
 twitter_username: ruckysolis
 github_username:  ruckysolis
+instagram: ruckysolis
+telegram: ruckysolis
+
+
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+google_analytics: UA-222746523-1
