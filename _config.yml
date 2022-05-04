@@ -14,5 +14,3 @@ telegram:  ruckysolis
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
-
-google_analytics: UA-222746523-1
