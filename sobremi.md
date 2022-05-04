@@ -9,6 +9,11 @@ title: "Sobre mí"
 - Certificado en Maestria en Comunicación en Tecnologías Educativas. Generación 2010-2012
 - Actualmente estudiando Licenciatura en Derecho en Universidad Veracruzana Región Poza Rica-Tuxpan. Desde 2020
 
+También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.github.io/derechoydesarrollo/)
+
+### Cursando
+- [Launch X - Formación de Developers](https://launchx.rocks)
+
 ## Cursos terminados 2022
 
 - [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
@@ -16,10 +21,6 @@ title: "Sobre mí"
 - [Github Pages](https://lab.github.com/githubtraining/github-pages)
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 - [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)
-
-
-### Cursando
-- [Launch X - Formación de Developers](https://launchx.rocks)
 
 También me puedes encontrar en:
 
