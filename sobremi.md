@@ -20,6 +20,7 @@ También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.git
 - [El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho](https://www.coursera.org/learn/legaltech/)
 - [Github Pages](https://lab.github.com/githubtraining/github-pages)
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+- [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
 - [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)
 
 También me puedes encontrar en:
