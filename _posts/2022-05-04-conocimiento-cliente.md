@@ -1,3 +1,8 @@
+---
+title: "Gestión de conocimiento y relación con el cliente"
+date: 2022-05-04
+---
+
 Desde la cuenta de twitter de [@AttorneysI](https://twitter.com/AttorneysI) me encontré con una publicación en la que definen que es Knowledge Management y Costumer Relationship Management.
 
 - [Tweet](https://twitter.com/AttorneysI/status/1521619536394735618)
