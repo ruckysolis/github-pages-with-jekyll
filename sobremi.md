@@ -11,8 +11,9 @@ title: "Sobre mí"
 
 También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.github.io/derechoydesarrollo/)
 
-### Cursando
-- [Launch X - Formación de Developers](https://launchx.rocks)
+### Leyendo
+- [The Pragmatic Programmer, 20th Anniversary Edition](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+
 
 ## Cursos terminados 2022
 
@@ -20,6 +21,7 @@ También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.git
 - [El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho](https://www.coursera.org/learn/legaltech/)
 - [Github Pages](https://lab.github.com/githubtraining/github-pages)
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
+- [Launch X - Formación de Developers](https://launchx.rocks)
 - [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)
 - [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
 - [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)
