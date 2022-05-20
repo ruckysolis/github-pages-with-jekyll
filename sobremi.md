@@ -11,7 +11,7 @@ title: "Sobre mí"
 
 También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.github.io/derechoydesarrollo/)
 
-### Leyendo
+### Libros leídos 2022
 - [The Pragmatic Programmer, 20th Anniversary Edition](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 
