@@ -11,10 +11,6 @@ title: "Sobre mí"
 
 También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.github.io/derechoydesarrollo/)
 
-### Libros leídos 2022
-- [The Pragmatic Programmer, 20th Anniversary Edition](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
-- [Método TED para hablar en público](https://www.amazon.com.mx/M%C3%A9todo-TED-para-hablar-p%C3%BAblico/dp/8434423561)
-
 ## Cursos terminados 2022
 
 - [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
@@ -25,6 +21,10 @@ También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.git
 - [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)
 - [Reviewing pull requests](https://lab.github.com/githubtraining/reviewing-pull-requests)
 - [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)
+
+### Libros leídos 2022
+- [The Pragmatic Programmer, 20th Anniversary Edition](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+- [Método TED para hablar en público](https://www.amazon.com.mx/M%C3%A9todo-TED-para-hablar-p%C3%BAblico/dp/8434423561)
 
 También me puedes encontrar en:
 
