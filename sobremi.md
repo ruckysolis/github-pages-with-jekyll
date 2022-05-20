@@ -24,7 +24,6 @@ También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.git
 
 ### Libros leídos 2022
 - [The Pragmatic Programmer, 20th Anniversary Edition](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
-- [Método TED para hablar en público](https://www.amazon.com.mx/M%C3%A9todo-TED-para-hablar-p%C3%BAblico/dp/8434423561)
 
 También me puedes encontrar en:
 
