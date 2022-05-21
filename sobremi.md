@@ -12,7 +12,6 @@ title: "Sobre mí"
 También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.github.io/derechoydesarrollo/)
 
 ## Cursos terminados 2022
-
 - [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 - [El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho](https://www.coursera.org/learn/legaltech/)
 - [Github Pages](https://lab.github.com/githubtraining/github-pages)
