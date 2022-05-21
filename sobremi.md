@@ -38,7 +38,6 @@ También me puedes encontrar en:
 - [Discord](https://discord.gg/fTcp2gyZh4)
 
 [![Twitter: ruckysolis](https://img.shields.io/twitter/follow/ruckysolis?style=social)](https://twitter.com/ruckysolis)
-[![Linkedin: ruckysolis](https://img.shields.io/badge/-ruckysolis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruckysolis/)](https://www.linkedin.com/in/ruckysolis/)
 [![GitHub ruckysolis](https://img.shields.io/github/followers/ruckysolis?label=follow&style=social)](https://github.com/ruckysolis)
 
 Este blog existe desde Mayo 1, 2022
