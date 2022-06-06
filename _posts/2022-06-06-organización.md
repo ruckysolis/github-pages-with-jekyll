@@ -1,6 +1,6 @@
 ---
 title: "¿Prevenir ó gestionar riesgos?"
-date: 2022-06-06
+date: La organización de un archivo legal
 ---
 
 Leyendo sobre [La organización de un archivo legal](https://www.odiseolegal.com/organizacion-archivo-legal/) en donde recomienda cuatro puntos:
@@ -15,7 +15,7 @@ Y finaliza sobre la parte digital, comenta la frase *‘Un archivo que actualmen
 
 El 7.5% porciento de datos se pierden y el 3% se ubican incorrectamente.
 
-Un problema que me parece real, es que aún teniendo todos los documentos en formato digital, existen otros que por firmas o sellas deben estar impresos. Lo que me parece que un siguiente paso para el legaltech debería ser la confirmación de archivos legales. Entendiendo que tanto en la vida real como en la digital, se pueden copiar muy facilmente, sin embargo en lo digital se puede rectificar que un archivo sí contiene los mismos datos originales, para ello se me ocurren dos maneras de hacerlo.
+Un problema que me parece real, es que aún teniendo todos los documentos en formato digital, existen otros que por firmas o sellas deben estar impresos. Lo que me parece que un siguiente paso para el legaltech debería ser la confirmación de archivos legales como originales. Entendiendo que tanto lo fisico real como en lo digital se pueden copiar muy facilmente, por ejemplo, en lo fisico podemos ir con una buena máquina copiadora y en lo digital con dar click derecho copiar y pegar tenemos nuevos archivos copiados del original, sin embargo en lo digital se puede rectificar que un archivo sí contiene los mismos datos originales, para ello se me ocurren dos maneras de hacerlo.
 
 - [Blockchain](https://es.wikipedia.org/wiki/Cadena_de_bloques), quizá la mejor manera y también la de moda, que existan diferentes computadoras que certifiquen en su historial que se trata del mismo archivo.
 - [MD5](https://es.wikipedia.org/wiki/MD5), cuando descargo un archivo ISO de un sistema operativo basado en Linux, normalmente viene acompañado de un archivo MD5, este archivo lo que hace es rectificar que los archivos a comparar tengan la misma cantidad de bits. MD5 puede ser llamado como una huella digital.
