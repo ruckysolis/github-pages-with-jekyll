@@ -25,6 +25,9 @@ También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.git
 - [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github)
 
 ### Libros leídos 2022
+- [Algo va mal](https://books.google.com.mx/books/about/Algo_va_mal.html?id=7qQt0jI97GIC&source=kp_book_description&redir_esc=y)
+- [Cómo nos venden la moto](https://books.google.com.mx/books/about/C%C3%B3mo_nos_venden_la_moto.html?id=uGx5-LJZYAoC&source=kp_book_description&redir_esc=y)
+- [El derecho explicado a los jóvenes](https://books.google.com.mx/books/about/El_derecho_explicado_a_los_j%C3%B3venes.html?id=WdQoAAAAQBAJ&source=kp_book_description&redir_esc=y)
 - [The Pragmatic Programmer, 20th Anniversary Edition](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 - [Método TED para hablar en público](https://www.amazon.com.mx/M%C3%A9todo-TED-para-hablar-p%C3%BAblico/dp/8434423561)
 
