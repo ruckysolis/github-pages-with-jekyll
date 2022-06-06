@@ -1,6 +1,6 @@
 ---
-title: "¿Prevenir ó gestionar riesgos?"
-date: La organización de un archivo legal
+title: "La organización de un archivo legal"
+date: 2022-06-06
 ---
 
 Leyendo sobre [La organización de un archivo legal](https://www.odiseolegal.com/organizacion-archivo-legal/) en donde recomienda cuatro puntos:
