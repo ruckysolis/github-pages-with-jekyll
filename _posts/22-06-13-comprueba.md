@@ -5,6 +5,7 @@ date: 2022-06-13
 
 En la publicación anterior hablaba sobre la [digitalización de archivos](http://www.ruckysolis.com/2022/06/06/organizaci%C3%B3n.html), hoy me encuentro con una herramienta del gobierno de Colombia; [Comprueba](https://comprueba.defensajuridica.gov.co/).
 
+
 Desafortunadamente no pude accesar en profundidad al servicio ya que los requisitos de registro son exclusivos para los interesados en aquel país.
 
 Sin embargo, lo que se deja ver, dice ser ***Herramientas para preparar tus pruebas***, cuyas características son
