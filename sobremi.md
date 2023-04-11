@@ -11,8 +11,10 @@ title: "Sobre mí"
 
 También soy fundador del proyecto [Derecho y Desarrollo](https://ruckysolis.github.io/derechoydesarrollo/)
 
-### Cursando 
-- [Ciclo especializado Microsoft Azure AZ-900](https://aka.ms/cicloespecializado)
+### Libros leídos 2023
+- [Juan Salvador Gaviota](https://www.amazon.com.mx/Juan-Salvador-Gaviota-Richard-Bach/dp/8498729734)
+- [Como hacer que te pasen cosas buenas](https://www.amazon.com.mx/C%C3%B3mo-hacer-pasen-cosas-buenas/dp/6070756924)
+- [Infocracia](https://latam.casadellibro.com/libro-infocracia/9788430624898/12744104)
 
 ## Cursos terminados 2022
 - [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
