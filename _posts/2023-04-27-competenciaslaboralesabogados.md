@@ -20,6 +20,8 @@ Estas son solo algunas de las competencias laborales que un título profesional 
 Recuerda que las competencias laborales son el complemento perfecto para tu título profesional. Si las cultivas y las demuestras en tu trabajo diario, podrás diferenciarte de la competencia, satisfacer las expectativas de tus clientes y alcanzar tus metas profesionales.
 
 Fuentes:
+
 [Competencias de Derecho: 10 habilidades de un abogado - UVirtual](https://blog.uvirtual.org/competencias-laborales-abogados-derecho)
+
 [11 competencias que debe tener un buen Abogado](https://www.todojuristas.com/blog/11-competencias-que-debe-tener-un-buen-abogado/)
 
