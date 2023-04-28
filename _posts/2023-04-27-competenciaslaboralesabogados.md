@@ -3,13 +3,9 @@ title: "Más allá del título: las competencias que todo abogado debe tener"
 date: 2023-04-27
 ---
 
-Aquí tienes un posible texto para tu publicación:
-
-Las competencias laborales que un título profesional no te garantizan y debes dominar
-
 Ser abogado es una profesión que requiere de una formación académica rigurosa y actualizada, pero también de una serie de habilidades y competencias que van más allá del conocimiento jurídico. Estas competencias son las que te permitirán destacar en el mercado laboral, ofrecer un servicio de calidad a tus clientes y adaptarte a los cambios y desafíos del entorno.
 
-¿Qué competencias laborales son esas? A continuación te presentamos algunas de las más importantes, según diversos expertos y fuentes²³:
+¿Qué competencias laborales son esas? A continuación te presentamos algunas de las más importantes, según diversos expertos y fuentes:
 
 - **Competencia de comunicación**: La capacidad de expresarte con claridad, precisión y persuasión, tanto de forma oral como escrita, es fundamental para un abogado. Debes saber adaptarte al lenguaje y al nivel de comprensión de tu interlocutor, ya sea un cliente, un juez, un colega o un contrario. También debes saber escuchar activamente y captar las necesidades, intereses y emociones de los demás.
 - **Competencia analítica**: La capacidad de analizar los hechos, interpretar la normativa y la jurisprudencia, y aplicar el razonamiento lógico y crítico a los problemas jurídicos es esencial para un abogado. Debes saber obtener y filtrar la información relevante, identificar las alternativas posibles y elegir la mejor solución para cada caso.
@@ -23,7 +19,8 @@ Estas son solo algunas de las competencias laborales que un título profesional 
 
 Recuerda que las competencias laborales son el complemento perfecto para tu título profesional. Si las cultivas y las demuestras en tu trabajo diario, podrás diferenciarte de la competencia, satisfacer las expectativas de tus clientes y alcanzar tus metas profesionales.
 
-Origen: Conversación con Bing, 27/4/2023
+
 (1) Competencias de Derecho: 10 habilidades de un abogado - UVirtual. https://blog.uvirtual.org/competencias-laborales-abogados-derecho.
+
 (2) 11 competencias que debe tener un buen Abogado. https://www.todojuristas.com/blog/11-competencias-que-debe-tener-un-buen-abogado/.
-(3) 11 competencias que debe tener un buen Abogado. https://bing.com/search?q=competencias+laborales+abogados.
+
