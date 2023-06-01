@@ -13,9 +13,7 @@ telegram_username:  ruckysolis
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-plugins:
-  - jekyll-include-cache
-
 theme: minimal-mistakes-jekyll
+
 
 
