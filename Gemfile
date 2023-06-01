@@ -8,5 +8,5 @@ gem "minimal-mistakes-jekyll"
 
 bundle
 
-
+end
 
