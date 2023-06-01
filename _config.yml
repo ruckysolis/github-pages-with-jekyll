@@ -68,7 +68,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "ruckysolis"
 facebook:
   username               :
   app_id                 :
@@ -91,11 +91,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ricardo Solís"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Comunicador y casi abogado"
+  location         : "Veracruz"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -121,13 +121,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url: "https://twitter.com/ruckysolis"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      # url: "https://facebook.com/people/Ruckysolis/100083511630945"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: "https://github.com/ruckysolis"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -136,7 +136,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://instagram.com/ruckysolis"
 
 
 # Reading Files
