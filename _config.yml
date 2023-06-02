@@ -2,7 +2,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "es-MX"
+locale                   : "es-ES"
 title                    : "El Blog de Rucky Solís"
 title_separator          : "-"
 subtitle                 : "Derecho, tecnología y más"
