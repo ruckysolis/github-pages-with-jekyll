@@ -8,7 +8,7 @@ title_separator          : "-"
 subtitle                 : "Derecho, tecnología y más"
 name                     : "Rucky Solís"
 description              : "Hablemos de derecho, tecnología y más"
-url                      : "https://hoo.be/ruckysolis"
+url                      : "http://www.ruckysolis.com/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ruckysolis/miblog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -102,32 +102,32 @@ author:
       # url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://hoo.be/ruckysolis"
+      url: "https://hoo.be/ruckysolis"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/ruckysolis"
+      url: "https://twitter.com/ruckysolis"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/people/Ruckysolis/100083511630945"
+      url: "https://facebook.com/people/Ruckysolis/100083511630945"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/ruckysolis"
+      url: "https://github.com/ruckysolis"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/ruckysolis"
+      url: "https://instagram.com/ruckysolis"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/ruckysolis"
+      url: "https://twitter.com/ruckysolis"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/people/Ruckysolis/100083511630945"
+      url: "https://facebook.com/people/Ruckysolis/100083511630945"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/ruckysolis"
+      url: "https://github.com/ruckysolis"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -136,7 +136,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/ruckysolis"
+      url: "https://instagram.com/ruckysolis"
 
 
 # Reading Files
