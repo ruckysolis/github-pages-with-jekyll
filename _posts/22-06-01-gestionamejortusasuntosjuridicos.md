@@ -5,6 +5,8 @@ date: 2023-06-01
 
 ¿Eres abogado o trabajas en el sector legal? Si es así, sabes lo importante que es gestionar bien tus asuntos jurídicos, comunicarte eficazmente con tu equipo y tus clientes, y estar al día de las novedades legales. Pero también sabes lo difícil que puede ser hacer todo eso sin las herramientas adecuadas.
 
+![Abogado con balanza e iconos](https://th.bing.com/th/id/OIG.JBEh9wNfQttu8xufHdxC?pid=ImgGn)
+
 Por suerte, la tecnología puede ser tu aliada para optimizar tu trabajo y ofrecer un mejor servicio. En este artículo te voy a presentar algunas herramientas de inteligencia artificial que pueden facilitarte la vida como profesional del derecho.
 
 ## Organiza y realiza seguimiento de tus asuntos legales
