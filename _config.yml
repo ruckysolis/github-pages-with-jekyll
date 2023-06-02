@@ -94,7 +94,7 @@ author:
   name             : "Ricardo Solís"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Comunicador y casi abogado"
-  location         : "Veracruz"
+  location         : 
   email            : 
   links:
     - label: "Email"
