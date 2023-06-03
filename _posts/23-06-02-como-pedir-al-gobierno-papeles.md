@@ -19,4 +19,4 @@ Fuentes:
 
 [INAI – Instituto Nacional de Transparencia, Acceso a la Información y .... ](https://home.inai.org.mx/)
 
-[Solicitud de Información Pública - Modelo | Word y PDF - Wonder.Legal.](https://www.wonder.legal/mx/modele/solicitud-informacion-publica)
+[Solicitud de Información Pública - Modelo - Word y PDF - Wonder.Legal.](https://www.wonder.legal/mx/modele/solicitud-informacion-publica)
