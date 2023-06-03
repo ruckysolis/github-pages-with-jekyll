@@ -14,6 +14,9 @@ Así que ya sabes, si quieres saber más sobre lo que hacen los que mandan, no d
 Fuentes:
 
 [Solicitudes de Acceso a la Información - gob.mx.](https://www.gob.mx/sspc/documentos/solicitudes-de-acceso-a-la-informacion-286067)
+
 [Proceso para ejercer el Derecho de Acceso a la Información.](https://home.inai.org.mx/?page_id=1643)
+
 [INAI – Instituto Nacional de Transparencia, Acceso a la Información y .... ](https://home.inai.org.mx/)
-[Solicitud de Información Pública - Modelo | Word y PDF - Wonder.Legal.] (https://www.wonder.legal/mx/modele/solicitud-informacion-publica)
+
+[Solicitud de Información Pública - Modelo | Word y PDF - Wonder.Legal.](https://www.wonder.legal/mx/modele/solicitud-informacion-publica)
