@@ -46,7 +46,7 @@ LegalTech es el uso de tecnología y software en el entorno jurídico, que tiene
 
 ## Fuentes
 
-[Legaltech en México para abogados - Legaltech] (https://blog.lemontech.com/legaltech-mexico/)
+[Legaltech en México para abogados - Legaltech](https://blog.lemontech.com/legaltech-mexico/)
 
 [Legaltech: ¿Qué es y cómo contribuye con el mercado jurídico? - Thomson Reuters Mexico blogpost.](https://www.thomsonreutersmexico.com/es-mx/soluciones-legales/blog-legal/legaltech-que-es-y-como-contribuye-con-el-mercado-juridico)
 
