@@ -19,7 +19,7 @@ México es la segunda mayor economía de América Latina en términos de product
 
 Uno de los factores que ha impulsado el desarrollo de LegalTech en México ha sido la promulgación de la Ley para regular las Instituciones de Tecnología Financiera o Ley Fintech en 2018, que dio un marco jurídico a las empresas fintech en México y generó una mayor demanda de servicios legales especializados en este sector.
 
-Además, la pandemia del COVID-19 ha acelerado la transformación digital de las firmas de abogados en México, que han tenido que adaptarse al trabajo remoto y a las nuevas necesidades de sus clientes. Según un estudio realizado por Thomson Reuters y Lexlatin, las firmas de América Latina, incluido México, invierten USD 30.000 anuales en LegalTech y el 70% expresó su deseo de automatizar sus actividades y reportes de casos.
+Además, la pandemia del COVID-19 ha acelerado la transformación digital de las firmas de abogados en México, que han tenido que adaptarse al trabajo remoto y a las nuevas necesidades de sus clientes. Las firmas de América Latina, incluido México, invierten USD 30.000 anuales en LegalTech y el 70% expresó su deseo de automatizar sus actividades y reportes de casos.
 
 ## Los beneficios de LegalTech para los abogados y abogadas
 
@@ -50,6 +50,6 @@ LegalTech es el uso de tecnología y software en el entorno jurídico, que tiene
 
 [Legaltech: ¿Qué es y cómo contribuye con el mercado jurídico? - Thomson Reuters Mexico blogpost.](https://www.thomsonreutersmexico.com/es-mx/soluciones-legales/blog-legal/legaltech-que-es-y-como-contribuye-con-el-mercado-juridico)
 
-[Índice Latinoamericano de Legaltech de México - Legaltechies] (https://legaltechies.co/indice-latinoamericano-de-legaltech-de-mexico/)
+[Índice Latinoamericano de Legaltech de México - Legaltechies](https://legaltechies.co/indice-latinoamericano-de-legaltech-de-mexico/)
 
 [Ley Fintech - Diario Oficial de la Federación.](https://www.dof.gob.mx/nota_detalle.php?codigo=5515623&fecha=09/03/2018)
