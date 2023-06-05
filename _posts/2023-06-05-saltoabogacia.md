@@ -15,7 +15,7 @@ LegalTech abarca una gran variedad de soluciones tecnológicas que tienen como o
 
 ## LegalTech en México: un mercado en crecimiento
 
-México es la segunda mayor economía de América Latina en términos de producto interior bruto nominal y ha experimentado un importante empuje respecto a la creación y desarrollo de servicios tecnológicos legales. Según el Índice Latinoamericano de LegalTech de México, elaborado por Legaltechies, existen más de 70 startups de LegalTech en el país, que ofrecen soluciones en áreas como gestión legal, inteligencia artificial, blockchain, compliance, contratación electrónica, entre otras.
+México es la segunda mayor economía de América Latina en términos de producto interior bruto nominal y ha experimentado un importante empuje respecto a la creación y desarrollo de servicios tecnológicos legales. Según el Índice Latinoamericano de LegalTech de México, elaborado por Legaltechies, que ofrecen soluciones en áreas como gestión legal, inteligencia artificial, blockchain, compliance, contratación electrónica, entre otras.
 
 Uno de los factores que ha impulsado el desarrollo de LegalTech en México ha sido la promulgación de la Ley para regular las Instituciones de Tecnología Financiera o Ley Fintech en 2018, que dio un marco jurídico a las empresas fintech en México y generó una mayor demanda de servicios legales especializados en este sector.
 
