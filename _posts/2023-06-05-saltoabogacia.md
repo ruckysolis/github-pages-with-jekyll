@@ -5,6 +5,8 @@ date: 2022-06-05
 
 Las herramientas de gestión de casos no solo están revolucionando la forma en que trabajamos, sino que también nos están permitiendo ahorrar tiempo y aumentar la precisión en nuestra práctica diaria. Pero, ¿qué es LegalTech y cómo está impactando al sector jurídico en México? En este artículo te lo contamos.
 
+![Unas manos cargando un servidor](https://th.bing.com/th/id/OIG.kdS3TdbQyWBqRY.oaGam?pid=ImgGn)
+
 ## ¿Qué es LegalTech?
 
 LegalTech es el término que se usa para referirse al uso de tecnología y software en el entorno jurídico, ya sea a nivel de soporte, en el procedimiento o en la fase de comercialización por parte de firmas, departamentos legales, juzgados, notarías, registros y otros actores del sector.
