@@ -1,6 +1,6 @@
 ---
 title: "Dando un salto hacia el futuro de la abogacía con LegalTech en México"
-date: 2022-06-05
+date: 2023-06-05
 ---
 
 Las herramientas de gestión de casos no solo están revolucionando la forma en que trabajamos, sino que también nos están permitiendo ahorrar tiempo y aumentar la precisión en nuestra práctica diaria. Pero, ¿qué es LegalTech y cómo está impactando al sector jurídico en México? En este artículo te lo contamos.
