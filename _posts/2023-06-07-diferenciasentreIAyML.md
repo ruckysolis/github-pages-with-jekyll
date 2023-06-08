@@ -5,6 +5,8 @@ date: 2023-06-07
 
 ¿Qué es eso de la inteligencia artificial y el machine learning? ¿Son lo mismo o son cosas diferentes? ¿Por qué debería importarte si eres abogado o abogada? En este artículo te voy a explicar de forma sencilla y divertida qué son estos conceptos y cómo pueden afectar a tu profesión.
 
+![Una laptop con un cerebro y un engrane en la pantalla](https://th.bing.com/th/id/OIG.Q1SAR4fcmuAgij1atNir?pid=ImgGn)
+
 ## ¿Qué es la inteligencia artificial?
 
 La inteligencia artificial (IA) es una rama de la informática que se dedica a crear sistemas que pueden realizar tareas que normalmente requieren inteligencia humana, como reconocer objetos, entender y responder al lenguaje, tomar decisiones, resolver problemas, etc. Por ejemplo, cuando usas el asistente de voz de tu móvil para pedirle que te ponga una canción o que te diga el tiempo, estás usando inteligencia artificial.
