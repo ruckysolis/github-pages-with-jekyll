@@ -1,5 +1,9 @@
 ---
 title: "Cómo la inteligencia artificial y el machine learning pueden mejorar tu trabajo como abogado o abogada"
+header: 
+   image: https://th.bing.com/th/id/OIG.Q1SAR4fcmuAgij1atNir?pid=ImgGn   
+   teaser: https://th.bing.com/th/id/OIG.Q1SAR4fcmuAgij1atNir?pid=ImgGn
+   og_image: https://th.bing.com/th/id/OIG.Q1SAR4fcmuAgij1atNir?pid=ImgGn
 date: 2023-06-07
 ---
 
