@@ -1,4 +1,3 @@
-
 ---
 title: "Cómo la inteligencia artificial y el machine learning pueden mejorar tu trabajo como abogado o abogada"
 date: 2023-06-07
