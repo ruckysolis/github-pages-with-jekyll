@@ -1,5 +1,5 @@
 ---
-title: Juego de aventura vs OSR
+title: Legal design: cómo usar el diseño, la innovación y el lenguaje para mejorar tus documentos y servicios legales
 header:
   image: https://th.bing.com/th/id/OIG.oq_u_Vd7zleYTi3lgz5F?pid=ImgGn
   teaser: https://th.bing.com/th/id/OIG.oq_u_Vd7zleYTi3lgz5F?pid=ImgGn
@@ -25,11 +25,11 @@ El legal design tiene muchos beneficios, tanto para los abogados como para sus c
 
 Un ejemplo de legal design es el contrato de legal design. Se trata de un contrato que usa elementos visuales, como iconos, colores, tablas y gráficos, para facilitar la lectura y comprensión del mismo. Así, se logra que el cliente se sienta más cómodo y confiado a la hora de firmar.
 
-Otro ejemplo de legal design es el legal design de Stanford. Se trata de una iniciativa académica que busca acercar el derecho y el sistema legal a sus usuarios, es decir, a cualquier persona que interactúe con asuntos legales³. Para ello, realizan proyectos de investigación, educación e innovación en temas como el acceso a la justicia, la educación legal y la tecnología legal.
+Otro ejemplo de legal design es el legal design de Stanford. Se trata de una iniciativa académica que busca acercar el derecho y el sistema legal a sus usuarios, es decir, a cualquier persona que interactúe con asuntos legales. Para ello, realizan proyectos de investigación, educación e innovación en temas como el acceso a la justicia, la educación legal y la tecnología legal.
 
 Fuentes:
 
-[Legal Design qué es y como cambiará la profesión - Legaltech.(]https://blog.lemontech.com/legal-design-que-es-y-como-cambiara-la-profesion/)
+[Legal Design qué es y como cambiará la profesión - Legaltech.](https://blog.lemontech.com/legal-design-que-es-y-como-cambiara-la-profesion/)
 
 [¿Qué es legal design? - Legalnova. ](https://legalnova.co/2021/04/05/que-es-legal-design/)
 
