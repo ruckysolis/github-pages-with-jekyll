@@ -1,5 +1,5 @@
 ---
-title: Legal design: cómo usar el diseño, la innovación y el lenguaje para mejorar tus documentos y servicios legales
+title: "Legal design: cómo usar el diseño, la innovación y el lenguaje para mejorar tus documentos y servicios legales"
 header:
   image: https://th.bing.com/th/id/OIG.oq_u_Vd7zleYTi3lgz5F?pid=ImgGn
   teaser: https://th.bing.com/th/id/OIG.oq_u_Vd7zleYTi3lgz5F?pid=ImgGn
