@@ -8,7 +8,7 @@ title_separator          : "-"
 subtitle                 : "Derecho, tecnología y más"
 name                     : "Rucky Solís"
 description              : "Hablemos de derecho, tecnología y más"
-url                      : "http://www.ruckysolis.com/"
+url                      : "http://www.ruckysolis.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ruckysolis/miblog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -46,9 +46,9 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   :  true, false (default)
+search_full_content      :  true, false (default)
+search_provider          :  lunr (default), algolia, google
 lunr:
   search_within_pages    : # true, false (default)
 algolia:
