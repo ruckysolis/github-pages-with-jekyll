@@ -1,0 +1,9 @@
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Entradas"
+    url: /posts/
+  - title: "Categorías"
+    url: /categories/
+  - title: "Etiquetas"
+    url: /tags/
