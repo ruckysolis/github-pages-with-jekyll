@@ -115,6 +115,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ruckysolis"
+    - label: "Tiktok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@ruckysolis"
 
 # Site Footer
 footer:
@@ -137,6 +140,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ruckysolis"
+    - label: "Tiktok"
+      icon: "fab fa-fw fa-tiktok"
+      url: "https://www.tiktok.com/@ruckysolis"
 
 
 # Reading Files
