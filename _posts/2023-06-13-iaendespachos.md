@@ -1,5 +1,5 @@
 ---
-title: "5 herramientas gratuitas con IA que todo abogado debería usar en su despacho"
+title: "5 herramientas con IA que todo abogado debería usar en su despacho"
 header:
   image: https://th.bing.com/th/id/OIG.iKe1DXdkTJLCElOu2Oky?pid=ImgGn
   teaser: https://th.bing.com/th/id/OIG.iKe1DXdkTJLCElOu2Oky?pid=ImgGn
