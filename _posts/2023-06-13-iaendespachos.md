@@ -29,4 +29,4 @@ Fuentes:
 
 [Las 6 herramientas con IA para abogados para usar ¡ya! 👇 - Negokai. ](https://negokai.com/las-mejores-herramientas-de-ia-para-abogados.html)
 
-[7 herramientas analíticas digitales para abogados [gratis y de pago .... ](https://blog.lemontech.com/herramientas-analiticas/)
+[7 herramientas analíticas digitales para abogados gratis y de pago .... ](https://blog.lemontech.com/herramientas-analiticas/)
