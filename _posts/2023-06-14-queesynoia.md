@@ -79,7 +79,7 @@ Fuentes:
 
 [Europa avanza en la regulación de la IA, desafiando el poder de los gigantes tecnológicos.](https://www.butterword.com/2023/06/europa-avanza-en-la-regulacion-de-la-ia.html)
 
-[El Parlamento Europeo aprueba la regulación de la IA: España será decisiva en su puesta en marcha final. ](https://www.xataka.com/robotica-e-ia/parlamento-europeo-aprueba-regulacion-ia-espana-sera-decisiva-su-puesta-marcha-final.)
+[El Parlamento Europeo aprueba la regulación de la IA: España será decisiva en su puesta en marcha final.](https://www.xataka.com/robotica-e-ia/parlamento-europeo-aprueba-regulacion-ia-espana-sera-decisiva-su-puesta-marcha-final.)
 
 [Qué es y qué no es inteligencia artificial - El Independiente.](https://www.elindependiente.com/futuro/2018/11/25/que-es-y-que-no-es-inteligencia-artificial/)
 
