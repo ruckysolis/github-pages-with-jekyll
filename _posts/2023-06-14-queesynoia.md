@@ -83,10 +83,10 @@ Fuentes:
 
 [Qué es y qué no es inteligencia artificial - El Independiente.](https://www.elindependiente.com/futuro/2018/11/25/que-es-y-que-no-es-inteligencia-artificial/)
 
-[Inteligencia Artificial: ¿Cuál es el secreto de la felicidad?.][https://www.tvazteca.com/aztecauno/inteligencia-artificial-cual-es-secreto-felicidad-at-notas]
+[Inteligencia Artificial: ¿Cuál es el secreto de la felicidad?.](https://www.tvazteca.com/aztecauno/inteligencia-artificial-cual-es-secreto-felicidad-at-notas)
 
 [Por qué es importante regular la inteligencia artificial: "Los propios bancos no saben por qué me están negando una hipoteca".](https://www.msn.com/es-es/dinero/noticias/por-qu%C3%A9-es-importante-regular-la-inteligencia-artificial-los-propios-bancos-no-saben-por-qu%C3%A9-me-est%C3%A1n-negando-una-hipoteca/ar-AA1cqWsE)
 
-[Así serán regulados ChatGPT y otras inteligencias artificiales en Europa.][https://www.debate.com.mx/tecnologia/Asi-seran-regulados-ChatGPT-y-otras-inteligencias-artificiales-en-Europa-20230614-0249.html]
+[Así serán regulados ChatGPT y otras inteligencias artificiales en Europa.](https://www.debate.com.mx/tecnologia/Asi-seran-regulados-ChatGPT-y-otras-inteligencias-artificiales-en-Europa-20230614-0249.html)
 
 [Qué es y qué no es inteligencia artificial - The Conversation.](https://theconversation.com/que-es-y-que-no-es-inteligencia-artificial-187786)
