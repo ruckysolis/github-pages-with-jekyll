@@ -7,7 +7,8 @@ header:
 date: 2023-06-07
 ---
 
-¿Qué es eso de la inteligencia artificial y el machine learning? ¿Son lo mismo o son cosas diferentes? ¿Por qué debería importarte si eres abogado o abogada? En este artículo te voy a explicar de forma sencilla y divertida qué son estos conceptos y cómo pueden afectar a tu profesión.
+¿Qué es eso de la inteligencia artificial y el machine learning? ¿Son lo mismo o son cosas diferentes? ¿Por qué debería importarte si eres abogado o abogada? En este artículo te voy a explicar de forma sencilla y divertida qué son estos conceptos y cómo pueden afectar a tu profesión.
+
 
 ## ¿Qué es la inteligencia artificial?
 
