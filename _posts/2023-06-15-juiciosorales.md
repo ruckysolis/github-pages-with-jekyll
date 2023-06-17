@@ -4,7 +4,7 @@ header:
   image: https://th.bing.com/th/id/OIG.Pbq.VlCVSDu_3uwbV0lW?pid=ImgGn
   teaser: https://th.bing.com/th/id/OIG.Pbq.VlCVSDu_3uwbV0lW?pid=ImgGn
   og_image: https://th.bing.com/th/id/OIG.Pbq.VlCVSDu_3uwbV0lW?pid=ImgGn
-date: 2023-06-14
+date: 2023-06-15
 categories:
   - Derecho
 tags:
