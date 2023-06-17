@@ -29,6 +29,7 @@ La actual crisis entre Rusia y Ucrania es un ejemplo de cómo la IA también ent
 
 La IA es una realidad que está transformando el futuro de la guerra. Los países que quieran mantener su seguridad y su posición en el escenario internacional deben adaptarse a este cambio y buscar formas de cooperar y regular el uso de esta tecnología. De lo contrario, se corre el riesgo de desencadenar una nueva carrera armamentista o un conflicto global con consecuencias impredecibles.
 
+Fuentes:
 
 [Google se enfrenta a dos guerras en el campo de la IA: la primera contra OpenAI y la segunda contra sí misma. ](https://www.xataka.com/robotica-e-ia/google-se-enfrenta-a-dos-guerras-campo-ia-primera-openai-segunda)
 
