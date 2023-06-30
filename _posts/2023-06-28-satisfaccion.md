@@ -8,7 +8,7 @@ date: 2023-06-28
 categories:
   - Derecho
 tags:
-  - Marketing
+  - Consejos
 ---
 
 La satisfacción del cliente es un concepto clave para cualquier negocio, pero especialmente para aquellos que ofrecen servicios profesionales como los abogados. Un cliente satisfecho es un cliente fiel, que recomienda el servicio a otros y que genera una buena reputación. Pero, ¿cómo se puede lograr la satisfacción del cliente en el ámbito jurídico, donde hay tantos factores que escapan al control del abogado, como las leyes, los jueces, los plazos, etc.?
