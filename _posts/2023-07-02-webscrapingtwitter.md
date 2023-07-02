@@ -42,7 +42,7 @@ A continuación se presenta una tabla con algunos ejemplos de países y sus resp
 | Estados Unidos | No hay una ley federal que prohíba el web scraping, pero se han aplicado otras leyes como la Computer Fraud and Abuse Act (CFAA), la Digital Millennium Copyright Act (DMCA) o la Lanham Act. Los tribunales han dictado sentencias contradictorias sobre el web scraping, dependiendo del caso concreto. |
 | Unión Europea | No hay una ley comunitaria que regule el web scraping, pero se deben respetar las normas de propiedad intelectual, competencia y protección de datos personales. El Reglamento General de Protección de Datos (RGPD) establece que se debe obtener el consentimiento de los usuarios para recabar sus datos personales, salvo que exista otro fundamento jurídico. |
 | España | No hay una ley específica sobre el web scraping, pero se deben cumplir las disposiciones del Código Penal, la Ley de Propiedad Intelectual, la Ley de Competencia Desleal y la Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales (LOPDGDD). La Agencia Española de Protección de Datos (AEPD) ha sancionado a algunas empresas por realizar web scraping sin consentimiento. |
-| México | No hay una ley especial sobre el web scraping, pero se deben observar las normas del Código Penal Federal, la Ley Federal del Derecho de Autor, la Ley Federal de Protección al Consumidor y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF) ha emitido algunas recomendaciones sobre el uso responsable del web scraping. |
+| México | No hay una ley especial sobre el web scraping, pero se deben observar las normas del Código Penal Federal, la Ley Federal del Derecho de Autor, la Ley Federal de Protección al Consumidor y la Ley Federal de Protección de Datos Personales en Posesión de los Particulares. |
 
 ## ¿Qué es bueno y qué es malo del web scraping?
 
@@ -69,12 +69,18 @@ Twitter es una red social que permite a sus usuarios publicar mensajes cortos ll
 - Por un lado, el web scraping puede beneficiar a Twitter al aumentar su visibilidad, tráfico y relevancia en la web. Además, el web scraping puede ayudar a los usuarios de Twitter a obtener información útil o interesante sobre temas, tendencias o personas.
 - Por otro lado, el web scraping puede perjudicar a Twitter al violar sus términos y condiciones de uso, que prohíben el uso de técnicas de scraping no autorizadas. Además, el web scraping puede poner en riesgo la privacidad o la seguridad de los usuarios de Twitter, al exponer sus datos personales o sensibles a terceros.
 
+Fuentes:
 
-(1) El WEB SCRAPING, DEFINICIÓN, ventajas y riesgos - Fruntera. https://bing.com/search?q=web+scraping+definici%c3%b3n.
-(2) Web scraping: ¿qué es y para qué se utiliza esta técnica? - IONOS. https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/que-es-el-web-scraping/.
-(3) Web scraping - Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Web_scraping.
-(4) ¿Es Legal el Web Scraping en Algunos Países? | Octoparse. https://www.octoparse.es/blog/el-web-scraping-es-legal-en-algunos-paises.
-(5) ¿El Web Scraping es legal? | Blog de Protección de Datos - Grupo Atico34. https://protecciondatos-lopd.com/empresas/web-scraping-legal/.
-(6) ¿Es legal el web scraping? - Bamboo.legal. https://www.bamboo.legal/web-scraping-legal/.
-(7) Normas internacionales relativas a la privacidad digital. https://www.ohchr.org/es/privacy-in-the-digital-age/international-standards-relating-digital-privacy.
+(El WEB SCRAPING, DEFINICIÓN, ventajas y riesgos - Fruntera. )[https://bing.com/search?q=web+scraping+definici%c3%b3n]
+
+(Web scraping: ¿qué es y para qué se utiliza esta técnica? - IONOS. )[https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/que-es-el-web-scraping/.
+Web scraping - Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Web_scraping]
+
+(¿Es Legal el Web Scraping en Algunos Países? | Octoparse. )[https://www.octoparse.es/blog/el-web-scraping-es-legal-en-algunos-paises]
+
+(¿El Web Scraping es legal? | Blog de Protección de Datos - Grupo Atico34. )[https://protecciondatos-lopd.com/empresas/web-scraping-legal/]
+
+(¿Es legal el web scraping? - Bamboo.legal. )[https://www.bamboo.legal/web-scraping-legal/]
+
+(Normas internacionales relativas a la privacidad digital. )[https://www.ohchr.org/es/privacy-in-the-digital-age/international-standards-relating-digital-privacy]
 
