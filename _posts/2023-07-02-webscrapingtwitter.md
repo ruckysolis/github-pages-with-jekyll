@@ -1,9 +1,9 @@
 ---
 title: "Web Scraping ¿Qué es y como afecta a Twitter?"
 header:
-  image: https://th.bing.com/th/id/OIG.CQzbvUxZWKr_oNSeeyc8?pid=ImgGn
-  teaser: https://th.bing.com/th/id/OIG.CQzbvUxZWKr_oNSeeyc8?pid=ImgGn
-  og_image: https://th.bing.com/th/id/OIG.CQzbvUxZWKr_oNSeeyc8?pid=ImgGn
+  image: https://th.bing.com/th/id/OIG.17BZjK8ogYMTzvFOJqMv?pid=ImgGn
+  teaser: https://th.bing.com/th/id/OIG.17BZjK8ogYMTzvFOJqMv?pid=ImgGn
+  og_image: https://th.bing.com/th/id/OIG.17BZjK8ogYMTzvFOJqMv?pid=ImgGn
 date: 2023-07-02
 categories:
   - Derecho
@@ -13,13 +13,12 @@ tags:
 
 Hace unas horas Elon Musk decidió limitar las publicaciones que podemos leer en twitter por día.
 
-> Para abordar los niveles extremos de extracción de datos y manipulación del sistema, hemos aplicado los siguientes límites temporales:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">To address extreme levels of data scraping &amp; system manipulation, we’ve applied the following temporary limits:<br><br>- Verified accounts are limited to reading 6000 posts/day<br>- Unverified accounts to 600 posts/day<br>- New unverified accounts to 300/day</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1675187969420828672?ref_src=twsrc%5Etfw">July 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+> Para abordar los niveles extremos de extracción de datos y manipulación del sistema, hemos aplicado los siguientes límites temporales:
 > - Las cuentas verificadas están limitadas a leer 6000 publicaciones por día
 >- Cuentas no verificadas a 600 publicaciones/día
 > - Nuevas cuentas no verificadas a 300/día
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">To address extreme levels of data scraping &amp; system manipulation, we’ve applied the following temporary limits:<br><br>- Verified accounts are limited to reading 6000 posts/day<br>- Unverified accounts to 600 posts/day<br>- New unverified accounts to 300/day</p>&mdash; Elon Musk (@elonmusk) <a href="https://twitter.com/elonmusk/status/1675187969420828672?ref_src=twsrc%5Etfw">July 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Por lo que nos deja con la incognita del título de esta publicación.
 
