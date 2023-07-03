@@ -70,8 +70,6 @@ Twitter es una red social que permite a sus usuarios publicar mensajes cortos ll
 
 Fuentes:
 
-(El WEB SCRAPING, DEFINICIÓN, ventajas y riesgos - Fruntera. )[https://bing.com/search?q=web+scraping+definici%c3%b3n]
-
 (Web scraping: ¿qué es y para qué se utiliza esta técnica? - IONOS. )[https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/que-es-el-web-scraping/.
 Web scraping - Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Web_scraping]
 
