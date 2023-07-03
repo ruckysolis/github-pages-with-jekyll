@@ -74,11 +74,11 @@ Fuentes:
 
 [Web scraping - Wikipedia, la enciclopedia libre. ](https://es.wikipedia.org/wiki/Web_scraping)
 
-[¿Es Legal el Web Scraping en Algunos Países? Octoparse. ](https://www.octoparse.es/blog/el-web-scraping-es-legal-en-algunos-paises)
+[¿Es Legal el Web Scraping en Algunos Países? - Octoparse. ](https://www.octoparse.es/blog/el-web-scraping-es-legal-en-algunos-paises)
 
 [¿El Web Scraping es legal? Blog de Protección de Datos - Grupo Atico34. ](https://protecciondatos-lopd.com/empresas/web-scraping-legal/)
 
-[¿Es legal el web scraping? - Bamboo.legal. ](https://www.bamboo.legal/web-scraping-legal/]
+[¿Es legal el web scraping? - Bamboo.legal. ](https://www.bamboo.legal/web-scraping-legal/)
 
 [Normas internacionales relativas a la privacidad digital. ](https://www.ohchr.org/es/privacy-in-the-digital-age/international-standards-relating-digital-privacy)
 
