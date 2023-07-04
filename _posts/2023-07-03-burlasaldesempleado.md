@@ -11,8 +11,6 @@ tags:
   - Laboral
 ---
 
-# ¿Por qué algunas personas que tienen empleo se burlan de las que no tienen empleo?
-
 El desempleo es una situación que afecta a millones de personas en México y en el mundo, y que tiene consecuencias negativas tanto para los individuos como para la sociedad. Sin embargo, algunas personas que tienen empleo se burlan de las que no tienen empleo, mostrando una actitud de desprecio, discriminación o superioridad. ¿Qué motivos pueden tener estas personas para burlarse de los desempleados? ¿Qué principios de derecho se vulneran con esta conducta? ¿Qué se puede hacer para evitar o combatir esta problemática?
 
 ## Causas del desempleo en México
@@ -51,6 +49,8 @@ Para evitar o combatir el problema de las burlas hacia los desempleados se requi
 - Promover la educación y la sensibilización sobre los derechos humanos, el valor del trabajo y la diversidad de las personas.
 - Denunciar y sancionar los casos de discriminación, acoso o violencia laboral que se produzcan por motivos de empleo o desempleo.
 - Apoyar y acompañar a las personas que buscan empleo, ofreciéndoles orientación, capacitación, asesoría o redes de contacto.
+
+Fuentes:
 
 ¹: [Sube en México población económicamente activa](https://www.elsiglodetorreon.com.mx/noticia/2023/sube-en-mexico-poblacion-economicamente-activa.html)
 ²: [Tasa de desempleo en México tiene dos meses consecutivos a la baja, informó el INEGI](https://www.infobae.com/mexico/2023/07/02/tasa-de-desempleo-en-mexico-tiene-dos-meses-consecutivos-a-la-baja-informo-el-inegi/)
