@@ -6,9 +6,9 @@ header:
   og_image: https://th.bing.com/th/id/OIG.NI6XCrsslWGmBv0BuZ1A?pid=ImgGn
 date: 2023-07-03
 categories:
-  - Vida
+  - Derecho
 tags:
-  - Desempleo
+  - Laboral
 ---
 
 # ¿Por qué algunas personas que tienen empleo se burlan de las que no tienen empleo?
