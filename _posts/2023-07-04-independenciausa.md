@@ -56,6 +56,7 @@ Hoy 4 de julio se celebra el día de la independencia en Estados Unidos, pero ta
 
 Hoy 4 de julio se celebra el día de la independencia en Estados Unidos, pero también se celebra el día de la independencia en México. Independencia de los obstáculos que nos limitan, independencia de las cadenas que nos atan, independencia de los miedos que nos paralizan. Independencia para ser nosotros mismos, independencia para elegir nuestro camino, independencia para alcanzar nuestro potencial. Independencia para ser libres.
 
+Fuentes:
 
 [Independencia de México - Wikipedia, la enciclopedia libre. ](https://es.wikipedia.org/wiki/Independencia_de_M%C3%A9xico)
 
