@@ -8,7 +8,7 @@ date: 2023-07-02
 categories:
   - Derecho
 tags:
-  - letaltech
+  - legaltech
 ---
 
 Hace unas horas Elon Musk decidió limitar las publicaciones que podemos leer en twitter por día.
