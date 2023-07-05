@@ -1,3 +1,4 @@
+---
 title: "Threads: ¿Un clon de Twitter o una amenaza legal para Meta?"
 header:
   image: https://th.bing.com/th/id/OIG.OnitvmpTLSYDq0uOsVrC?pid=ImgGn
