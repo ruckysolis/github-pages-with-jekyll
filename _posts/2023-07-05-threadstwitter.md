@@ -55,6 +55,6 @@ Fuentes
 
 [Threads, el clon de Twitter de Meta, ya tiene fecha de lanzamiento. ](https://hipertextual.com/2023/07/threads-clon-twitter-meta-fecha-de-lanzamiento)
 
-[Así se ve la versión web de Threads, el clon de Twitter hecho por Mark ....]( (https://www.lanacion.com.ar/tecnologia/asi-se-ve-la-version-web-de-threads-el-clon-de-twitter-hecho-por-mark-zuckerberg-nid05072023/)
+[Así se ve la versión web de Threads, el clon de Twitter hecho por Mark ....](https://www.lanacion.com.ar/tecnologia/asi-se-ve-la-version-web-de-threads-el-clon-de-twitter-hecho-por-mark-zuckerberg-nid05072023/)
 
 [«Threads», el clon de Twitter de Instagram, estará disponible desde ....](https://ohmygeek.net/2023/07/04/threads-instagram-disponibilidad/)
