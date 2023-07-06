@@ -21,7 +21,7 @@ A simple vista, Threads parece una copia descarada de Twitter. Ambas redes socia
 
 Sin embargo, Threads también tiene algunas características propias que la distinguen de Twitter. Por ejemplo, Threads depende de Instagram para funcionar, ya que permite iniciar sesión con la cuenta de esta red social y seguir automáticamente a las mismas personas que se siguen en Instagram. Esto le da a Threads una ventaja inicial al contar con una base de usuarios potencial muy amplia.
 
-Otra diferencia es que Threads se enfoca más en las conversaciones entre los usuarios que en la difusión de información. Según Meta, Threads es "la app de conversaciones basadas en texto de Instagram" y su objetivo es "conectarte directamente con tus creadores favoritos y con otras personas con gustos afines"¹. Esto implica que Threads busca fomentar el diálogo y el intercambio de opiniones entre los miembros de una comunidad, más que la viralización o el impacto mediático de los mensajes.
+Otra diferencia es que Threads se enfoca más en las conversaciones entre los usuarios que en la difusión de información. Según Meta, Threads es "la app de conversaciones basadas en texto de Instagram" y su objetivo es "conectarte directamente con tus creadores favoritos y con otras personas con gustos afines". Esto implica que Threads busca fomentar el diálogo y el intercambio de opiniones entre los miembros de una comunidad, más que la viralización o el impacto mediático de los mensajes.
 
 ## Los riesgos legales de Threads para Meta
 
