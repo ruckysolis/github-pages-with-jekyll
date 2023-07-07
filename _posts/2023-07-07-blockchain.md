@@ -4,7 +4,7 @@ header:
   image: https://th.bing.com/th/id/OIG.i4rEGhWwY_rj2RGDL.od?pid=ImgGn
   teaser: https://th.bing.com/th/id/OIG.i4rEGhWwY_rj2RGDL.od?pid=ImgGn
   og_image: https://th.bing.com/th/id/OIG.i4rEGhWwY_rj2RGDL.od?pid=ImgGn
-date: 2023-07-0
+date: 2023-07-07
 categories:
   - legaltech
 tags:
