@@ -8,7 +8,7 @@ date: 2023-07-06
 categories:
   - Derecho
 tags:
-  - Inteligencia Artificial, legaltech
+  - Inteligencia Artificial
 ---
 
 ¿Te imaginas poder resolver tus dudas legales con solo enviar un mensaje de texto? ¿O recibir asesoramiento personalizado de un abogado virtual? Pues esto ya es posible gracias a los chatbots legales, unas herramientas de Inteligencia Artificial que están transformando el sector jurídico.
