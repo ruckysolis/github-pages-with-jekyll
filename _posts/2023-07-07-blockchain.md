@@ -58,4 +58,4 @@ Esperamos que te haya gustado este artículo y que te haya servido para conocer 
 
 [Blockchain en el Sector Legal (Actualizado 2021) - Andorra Services.](https://andorraservices.com/blockchain-en-el-sector-legal/)
 
-[El impacto de ‘blockchain’ en el sector legal | Legal | Cinco Días. ](https://cincodias.elpais.com/cincodias/2018/10/08/legal/1538980684_127123.html.)
+[El impacto de ‘blockchain’ en el sector legal - Legal - Cinco Días. ](https://cincodias.elpais.com/cincodias/2018/10/08/legal/1538980684_127123.html.)
