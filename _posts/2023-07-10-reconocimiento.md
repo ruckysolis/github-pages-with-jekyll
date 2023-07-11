@@ -79,7 +79,7 @@ El reconocimiento facial y morfológico son tecnologías que pueden tener benefi
 
 [En México 4 de cada 10 presos se encuentran sin sentencia - El Economista. ](https://www.eleconomista.com.mx/politica/En-Mexico-4-de-cada-10-presos-se-encuentran-sin-sentencia-20201020-0118.html)
 
-(Sin sentencia, 40% de las personas recluidas en el país. )(https://www.eleconomista.com.mx/politica/Sin-sentencia-40-de-las-personas-recluidas-en-el-pais-20220721-0143.html)
+[Sin sentencia, 40% de las personas recluidas en el país. ](https://www.eleconomista.com.mx/politica/Sin-sentencia-40-de-las-personas-recluidas-en-el-pais-20220721-0143.html)
 
 [Hacinamiento en cárceles y presos sin sentencia, al alza - El Economista. ](https://www.eleconomista.com.mx/politica/Hacinamiento-en-carceles-y-presos-sin-sentencia-al-alza-20220826-0001.html)
 
