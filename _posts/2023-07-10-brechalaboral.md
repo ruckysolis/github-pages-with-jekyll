@@ -42,7 +42,7 @@ La brecha laboral entre hombres y mujeres es un problema complejo y estructural,
 
 ## ¿Qué te pareció este artículo?
 
-Espero que te haya gustado este artículo y que te haya servido para conocer más sobre la brecha laboral entre hombres y mujeres en México. Si te interesó el tema, te invito a que lo compartas con tus amigos y familiares, y que me dejes tus comentarios al final. Recuerda que juntos podemos hacer la diferencia y construir un mundo más justo e igualitario para todos y todas. ¡Hasta la próxima!
+Espero que te haya gustado este artículo y que te haya servido para conocer más sobre la brecha laboral entre hombres y mujeres en México. Si te interesó el tema, te invito a que lo compartas con tus amigos y familiares. Recuerda que juntos podemos hacer la diferencia y construir un mundo más justo e igualitario para todos y todas. ¡Hasta la próxima!
 
 [Encuesta Nacional sobre Salud y Envejecimiento en México (ENASEM) 2021. ](https://www.inegi.org.mx/programas/enasem/2021/)
 
@@ -52,7 +52,7 @@ Espero que te haya gustado este artículo y que te haya servido para conocer má
 
 [Comunicado. Encuesta Nacional sobre Salud y Envejecimiento en ... - INEGI. ](https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2023/ENASEM/ENASEM_21.pdf)
 
-[II. LOS TRATADOS INTERNACIONALES - UNAM. https://archivos.juridicas.unam.mx/](www/bjv/libros/6/2685/5.pdf)
+[II. LOS TRATADOS INTERNACIONALES - UNAM. ](https://archivos.juridicas.unam.mx/www/bjv/libros/6/2685/5.pdf)
 
 [Jerarquía entre leyes federales y tratados. ](https://escuelajudicial.cjf.gob.mx/publicaciones/revista/8/8_9.pdf)
 
