@@ -31,7 +31,7 @@ Las redes sociales y las aplicaciones de contenido son espacios para expresarse 
 
 Por eso, no publiquen nada comprometido, como fotos o videos íntimos, datos sensibles (como el número de tarjeta de crédito o el domicilio), comentarios ofensivos o discriminatorios, o información falsa o engañosa. Recuerden que una vez que algo se publica en internet, es muy difícil borrarlo por completo.
 
-Este consejo se relaciona con el principio de **responsabilidad**, que implica que los usuarios deben asumir las consecuencias de sus actos en las redes sociales y las aplicaciones de contenido. Este principio está contemplado en  la Ley Federal de Protección de Datos Personales en Posesión de los Particulares⁴ en el Pacto Internacional de Derechos Civiles y Políticos y en la Convención Americana sobre Derechos Humanos.
+Este consejo se relaciona con el principio de **responsabilidad**, que implica que los usuarios deben asumir las consecuencias de sus actos en las redes sociales y las aplicaciones de contenido. Este principio está contemplado en  la Ley Federal de Protección de Datos Personales en Posesión de los Particulares en el Pacto Internacional de Derechos Civiles y Políticos y en la Convención Americana sobre Derechos Humanos.
 
 ## 3. Restrinjan la visualización de su biografía y fotos 📸
 
@@ -55,7 +55,7 @@ Otra forma de proteger la privacidad en las redes sociales y las aplicaciones de
 
 Para hacerlo, solo tienen que acceder a la configuración de privacidad en su red social o aplicación favorita y seleccionar la opción de ver su perfil como otro usuario. Por ejemplo, en Facebook pueden escoger ver su perfil como un amigo específico o como una persona cualquiera. También pueden revisar qué aplicaciones tienen acceso a su cuenta y eliminar las que no usen o no confíen.
 
-Este consejo se relaciona con el principio de **transparencia**, que implica que los usuarios deben tener acceso a la información sobre el tratamiento de sus datos personales por parte de terceros. Este principio está contemplado en  la Ley Federal de Protección de Datos Personales en Posesión de los Particulares⁴, en el Pacto Internacional de Derechos Civiles y Políticos² y en de la Convención Americana sobre Derechos Humanos.
+Este consejo se relaciona con el principio de **transparencia**, que implica que los usuarios deben tener acceso a la información sobre el tratamiento de sus datos personales por parte de terceros. Este principio está contemplado en  la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, en el Pacto Internacional de Derechos Civiles y Políticos² y en de la Convención Americana sobre Derechos Humanos.
 
 ## 6. Establezcan ajustes complementarios ⚙️
 
