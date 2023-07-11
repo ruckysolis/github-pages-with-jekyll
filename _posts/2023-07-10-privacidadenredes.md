@@ -23,7 +23,7 @@ Este consejo parece obvio, pero nunca está de más recordarlo. La contraseña e
 
 Por eso, no compartan su contraseña con nadie, ni siquiera con sus amigos o familiares. Y si tienen que hacerlo por alguna razón, cámbienla lo antes posible. También es recomendable que usen contraseñas difíciles de descifrar, que combinen letras, números y símbolos, y que no sean iguales para todas sus cuentas.
 
-Este consejo se relaciona con el principio de **autodeterminación informativa**, que reconoce el derecho de las personas a decidir sobre sus propios datos personales. Este principio está consagrado en  la Constitución Política de los Estados Unidos Mexicanos, el Pacto Internacional de Derechos Civiles y Políticos y la Convención Americana sobre Derechos Humanos³.
+Este consejo se relaciona con el principio de **autodeterminación informativa**, que reconoce el derecho de las personas a decidir sobre sus propios datos personales. Este principio está consagrado en  la Constitución Política de los Estados Unidos Mexicanos, el Pacto Internacional de Derechos Civiles y Políticos y la Convención Americana sobre Derechos Humanos.
 
 ## 2. No publiquen nada comprometido 🙊
 
