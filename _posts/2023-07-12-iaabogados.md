@@ -11,8 +11,6 @@ tags:
   - laboral
 ---
 
-# ¿Está tu empleo en riesgo por la revolución de la IA?
-
 Si eres abogado o abogada, quizás te hayas preguntado alguna vez si tu profesión está amenazada por el avance de la inteligencia artificial (IA). Después de todo, la IA ya es capaz de realizar tareas que antes solo podían hacer los humanos, como analizar documentos, redactar contratos, resolver disputas o predecir el resultado de juicios.
 
 Pero no te preocupes, no todo está perdido. Según un informe de la Organización para la Cooperación y el Desarrollo Económico (OCDE), solo el 27% de los empleos de sus 38 países miembros dependen de competencias que podrían automatizarse fácilmente en la próxima revolución de la IA. Y aunque los trabajadores temen perder sus empleos a causa de esta tecnología, también reconocen que la automatización ha hecho que sus trabajos sean menos peligrosos o tediosos.

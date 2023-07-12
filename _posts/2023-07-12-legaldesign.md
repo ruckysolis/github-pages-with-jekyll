@@ -11,8 +11,6 @@ tags:
   - legal design
 ---
 
-# Legal Design: ¿Qué es y por qué te interesa?
-
 Si eres de los que se aburren leyendo contratos, documentos legales o términos y condiciones, este artículo es para ti. Te voy a contar sobre una tendencia emergente que combina derecho y diseño para crear soluciones legales centradas en el usuario. Se llama **Legal Design** y tiene el potencial de cambiar la forma en que interactuamos con el derecho.
 
 ## ¿Qué es el Legal Design?
