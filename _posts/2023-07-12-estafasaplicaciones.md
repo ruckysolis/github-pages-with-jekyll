@@ -11,8 +11,6 @@ tags:
   - Nuevas tecnologías
 ---
 
-# ¿Cómo operan los montadeudas y cómo protegerte de ellos?
-
 Seguramente has escuchado o incluso has tenido que lidiar con casos de personas que han sido víctimas de los llamados "montadeudas", una forma de extorsión y fraude que se aprovecha de la necesidad y la desinformación de quienes buscan un préstamo fácil y rápido.
 
 Los montadeudas son aplicaciones o páginas web que ofrecen créditos de fácil acceso a las personas, sin revisión de historial crediticio ni requisitos complicados. Solo piden descargar su aplicación en el celular y otorgar ciertos permisos para su funcionamiento, lo que incluye acceso a los contactos, galería de imágenes y toda la información que está almacenada en el teléfono.
