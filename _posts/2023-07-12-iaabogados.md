@@ -25,7 +25,7 @@ Entonces, ¿qué puedes hacer para adaptarte a los cambios y aprovechar las opor
 
 Como ves, la IA no es una amenaza sino una oportunidad para los abogados y abogadas. Si sabes aprovecharla, podrás mejorar tu desempeño profesional, ampliar tus horizontes laborales y contribuir al bienestar social.
 
-¿Te gustó este artículo? Compártelo con tus colegas y déjanos tus comentarios. Y si quieres saber más sobre la IA y su impacto en el mundo jurídico, te recomendamos leer estos recursos:
+¿Te gustó este artículo? Compártelo con tus colegas. Y si quieres saber más sobre la IA y su impacto en el mundo jurídico, te recomendamos leer estos recursos:
 
 - [OCDE: 27% de los empleos corren un alto riesgo por revolución de la IA](https://www.eleconomista.com.mx/economia/OCDE-27-de-los-empleos-corren-un-alto-riesgo-por-revolucion-de-la-IA-20211214-0060.html)
 - [II. LOS TRATADOS INTERNACIONALES - UNAM](https://archivos.juridicas.unam.mx/www/bjv/libros/6/2685/5.pdf)
