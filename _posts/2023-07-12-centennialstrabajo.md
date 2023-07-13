@@ -1,9 +1,9 @@
 ---
 title: "¿Qué estudiaste y en qué trabajas? La pregunta que desafía a los centennials latinoamericanos"
 header:
-  image: https://th.bing.com/th/id/OIG.2IAh7RQ4FSm2e8OYxQ7Q?pid=ImgGn
-  teaser: https://th.bing.com/th/id/OIG.2IAh7RQ4FSm2e8OYxQ7Q?pid=ImgGn
-  og_image: https://th.bing.com/th/id/OIG.2IAh7RQ4FSm2e8OYxQ7Q?pid=ImgGn
+  image: https://th.bing.com/th/id/OIG.X1yzRj47.ED.UBU3MFUC?pid=ImgGn
+  teaser: https://th.bing.com/th/id/OIG.X1yzRj47.ED.UBU3MFUC?pid=ImgGn
+  og_image: https://th.bing.com/th/id/OIG.X1yzRj47.ED.UBU3MFUC?pid=ImgGn
 date: 2023-07-12
 categories:
   - Derecho
