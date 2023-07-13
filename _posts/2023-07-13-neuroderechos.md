@@ -36,7 +36,7 @@ Espero tus comentarios y te animo a que compartas este artículo con tus colegas
 
 Fuentes:
 
-- [¿Cómo defender nuestra privacidad e identidad cerebral frente a los riesgos de la neurotecnología? | Legal | Cinco Días](https://cincodias.elpais.com/cincodias/2021/01/27/legal/1611779453_654051.html)
+- [¿Cómo defender nuestra privacidad e identidad cerebral frente a los riesgos de la neurotecnología? - Legal - Cinco Días](https://cincodias.elpais.com/cincodias/2021/01/27/legal/1611779453_654051.html)
 - [Desafíos para el compliance frente a la inteligencia artificial - Protección de datos y neuroderechos](https://www.worldcomplianceassociation.com/2989/articulo-desafios-para-el-compliance-frente-a-la-inteligencia-artificial-proteccion-de-datos-y-neuroderechos.html)
 - [Neuroderechos: qué son, tipos, e implicaciones jurídicas](https://psicologiaymente.com/neurociencias/neuroderechos)
 - [Neuroderechos y protección de datos personales](https://www.grupomultimedialegal.com/neuroderechos-y-proteccion-de-datos-personales/)
