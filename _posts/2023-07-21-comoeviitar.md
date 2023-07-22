@@ -1,5 +1,5 @@
 ---
-title: "Cómo evitar que te hackeen: consejos prácticos de seguridad para estar seguro en internet?"
+title: "Cómo evitar que te hackeen"
 header:
   image: https://th.bing.com/th/id/OIG.N3Rr_Qjwi5Ioyt3gTV5H?pid=ImgGn
   teaser: https://th.bing.com/th/id/OIG.N3Rr_Qjwi5Ioyt3gTV5H?pid=ImgGn
