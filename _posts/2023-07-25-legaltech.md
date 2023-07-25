@@ -28,12 +28,13 @@ Como ves, la legaltech es una oportunidad para transformar el sector legal y ada
 
 Espero que este artículo te haya resultado útil e interesante. Si tienes alguna pregunta o comentario sobre la legaltech o sobre cualquier otro tema relacionado con el derecho y la tecnología, no dudes en contactarme. Estaré encantado de conversar contigo.
 
+Fuentes
 
 [Legaltech®. ](https://legaltech.mx/)
 
 [Legaltech: ¿Qué es y cómo contribuye con el mercado jurídico?. ](https://www.thomsonreutersmexico.com/es-mx/soluciones-legales/blog-legal/legaltech-que-es-y-como-contribuye-con-el-mercado-juridico)
 
-[¿Qué es legaltech? | Abogados Legálitas. ](https://www.legalitas.com/actualidad/que-es-legaltech)
+[¿Qué es legaltech? - Abogados Legálitas. ](https://www.legalitas.com/actualidad/que-es-legaltech)
 
 [Legaltech - Wikipedia, la enciclopedia libre. ](https://es.wikipedia.org/wiki/Legaltech)
 
