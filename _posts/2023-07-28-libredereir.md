@@ -1,9 +1,9 @@
 ---
 title: "Reír para sanar: la lección que los abogados pueden aprender de los reclusos en “Libre de reír”"
 header:
-  image: https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/407645/407645_173x307.jpg
-  teaser: https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/407645/407645_173x307.jpg
-  og_image: https://cl.buscafs.com/www.tomatazos.com/public/uploads/images/407645/407645_173x307.jpg
+  image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigsDlKSCLqjKOTce6pKhJIC_Nv320351a_dUUX2Rr_Vu5FnGFvWnv8uzQu2jlgFYB1AZ1wRmKEDepg9pKWWJQNA28TPKnCRHOk5lbeovY1E6lQm9rzmzjJ7inu6e7fwrehZn9Phm5ag9fatN1ngUQJuQX1oBv9wAXmpC6cEl-ICYokHGtPKhKlw3xVcw/s1920/libre%20de%20reir%202.jpg
+  teaser: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigsDlKSCLqjKOTce6pKhJIC_Nv320351a_dUUX2Rr_Vu5FnGFvWnv8uzQu2jlgFYB1AZ1wRmKEDepg9pKWWJQNA28TPKnCRHOk5lbeovY1E6lQm9rzmzjJ7inu6e7fwrehZn9Phm5ag9fatN1ngUQJuQX1oBv9wAXmpC6cEl-ICYokHGtPKhKlw3xVcw/s1920/libre%20de%20reir%202.jpg
+  og_image: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigsDlKSCLqjKOTce6pKhJIC_Nv320351a_dUUX2Rr_Vu5FnGFvWnv8uzQu2jlgFYB1AZ1wRmKEDepg9pKWWJQNA28TPKnCRHOk5lbeovY1E6lQm9rzmzjJ7inu6e7fwrehZn9Phm5ag9fatN1ngUQJuQX1oBv9wAXmpC6cEl-ICYokHGtPKhKlw3xVcw/s1920/libre%20de%20reir%202.jpg
 date: 2023-07-28
 categories:
   - Derecho
