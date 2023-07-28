@@ -21,7 +21,7 @@ Así que ya sabes, si quieres pasar un buen rato y aprender algo nuevo, no te pi
 
 Fuentes
 
-[Libre de reír - Tráiler oficial - Prime - YouTube.] (https://www.youtube.com/watch?v=kcr60JajbqU)
+[Libre de reír - Tráiler oficial - Prime - YouTube.](https://www.youtube.com/watch?v=kcr60JajbqU)
 
 [Libre De Reír Temporada 1 - Tomatazos. ](https://www.tomatazos.com/series/850326/Libre-De-Reir/temporada/1)
 
