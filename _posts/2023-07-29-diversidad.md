@@ -26,7 +26,7 @@ La diversidad y la inclusión se refieren al conjunto de estrategias, políticas
 - Políticas claras de diversidad e inclusión: Para promover la diversidad y la inclusión en el proceso de contratación, también es necesario contar con políticas que lo respalden. Estas políticas deben comunicar el compromiso de la empresa con estos valores, los objetivos que se persiguen, las acciones que se realizan y los beneficios que se ofrecen. Además, deben ser conocidas y aplicadas por todos los involucrados en el proceso de contratación.
 - Contratación ciega: La contratación ciega consiste en eliminar toda la información personal o identificable de los candidatos antes de evaluarlos. Esto incluye el nombre, la foto, la edad, el género, la nacionalidad, la dirección y cualquier otro dato que pueda generar un sesgo. De esta forma, se garantiza que solo se tenga en cuenta el perfil profesional y el desempeño de los candidatos.
 
-Estas son solo algunas de las estrategias que pueden usar para impulsar la diversidad y la inclusión en sus procesos de contratación. Recuerden que al hacerlo no solo están contribuyendo a una sociedad más justa e igualitaria, sino también a mejorar el rendimiento y el éxito de sus empresas. Así que no lo duden más y pongan en práctica estos consejos. ¡Les aseguro que no se arrepentirán!
+Estas son solo algunas de las estrategias que pueden usar para impulsar la diversidad y la inclusión en sus procesos de contratación. Recuerden que al hacerlo no solo están contribuyendo a una sociedad más justa e igualitaria, sino también a mejorar el rendimiento y el éxito de sus empresas. Así que no lo duden más y pongan en práctica estos consejos.
 
 Fuentes:
 
