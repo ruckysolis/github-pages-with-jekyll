@@ -30,7 +30,7 @@ Estas son solo algunas de las estrategias que pueden usar para impulsar la diver
 
 Fuentes:
 
-[Diversidad e Inclusión en el lugar de trabajo: Una Guía Completa. (]https://blog.vantagecircle.com/es/diversidad-e-inclusion-lugar-de-trabajo/)
+[Diversidad e Inclusión en el lugar de trabajo: Una Guía Completa. ](https://blog.vantagecircle.com/es/diversidad-e-inclusion-lugar-de-trabajo/)
 
 [Diversidad e Inclusión en el Proceso de Contratación: cómo evitar .... ](https://www.webyempresas.com/diversidad-inclusion-contratacion/)
 
