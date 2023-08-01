@@ -37,20 +37,20 @@ En conclusión, la inteligencia artificial es una herramienta valiosa que puede 
 
 Fuentes
 
-¿Cuáles son los límites de la inteligencia artificial? - 2023. https://www.ceupe.mx/blog/cuales-son-los-limites-de-la-inteligencia-artificial.html
+[¿Cuáles son los límites de la inteligencia artificial? - 2023. ](https://www.ceupe.mx/blog/cuales-son-los-limites-de-la-inteligencia-artificial.html)
 
-¿Cuáles son los límites de la inteligencia artificial? Lo que aún no .... https://computerhoy.com/tecnologia/cuales-son-limites-inteligencia-artificial-aun-no-puede-hacer-1266246
+[¿Cuáles son los límites de la inteligencia artificial? Lo que aún no .... ](https://computerhoy.com/tecnologia/cuales-son-limites-inteligencia-artificial-aun-no-puede-hacer-1266246)
 
-7 herramientas de inteligencia artificial indispensables para las .... https://liderlegal.com/7-herramientas-de-inteligencia-artificial-indispensables-para-las-firmas-de-abogados/
+[7 herramientas de inteligencia artificial indispensables para las .... ](https://liderlegal.com/7-herramientas-de-inteligencia-artificial-indispensables-para-las-firmas-de-abogados/)
 
-Los abogados y la inteligencia artificial - Legaltech. https://blog.lemontech.com/abogados-y-la-inteligencia-artificial/
+[Los abogados y la inteligencia artificial - Legaltech. ](https://blog.lemontech.com/abogados-y-la-inteligencia-artificial/)
 
-Limitaciones de la inteligencia artificial y cómo superarlas - ICARE. https://www.icare.cl/contenido-digital/estudio-mckinsey-inteligencia-artificial/
+[Limitaciones de la inteligencia artificial y cómo superarlas - ICARE. ](https://www.icare.cl/contenido-digital/estudio-mckinsey-inteligencia-artificial/)
 
-Las limitaciones de la inteligencia artificial - Expansión. https://www.expansion.com/economia-digital/innovacion/2017/12/14/5a314a6eca474131108b460a.html
+[Las limitaciones de la inteligencia artificial - Expansión. ](https://www.expansion.com/economia-digital/innovacion/2017/12/14/5a314a6eca474131108b460a.html)
 
-Limitaciones de la inteligencia artificial - Funiber Blogs. https://blogs.funiber.org/tecnologias-informacion/2021/11/19/limitaciones-de-la-inteligencia-artificial
+[Limitaciones de la inteligencia artificial - Funiber Blogs. ](https://blogs.funiber.org/tecnologias-informacion/2021/11/19/limitaciones-de-la-inteligencia-artificial)
 
-La inteligencia artificial jurídica: nuevas herramientas y perspectivas .... https://journals.openedition.org/revus/6547
+[La inteligencia artificial jurídica: nuevas herramientas y perspectivas .... ](https://journals.openedition.org/revus/6547)
 
-La inteligencia artificial en los despachos de abogados. https://www.dig.es/inteligencia-artificial-despachos-de-abogados/
+[La inteligencia artificial en los despachos de abogados. ](https://www.dig.es/inteligencia-artificial-despachos-de-abogados/)
