@@ -1,9 +1,9 @@
 ---
 title: "La inteligencia artificial: un reto y una oportunidad para la democracia"
 header:
-  image: https://th.bing.com/th/id/OIG.QeEigpqPRyrHzq4TRCMQ?pid=ImgGn
-  teaser: https://th.bing.com/th/id/OIG.QeEigpqPRyrHzq4TRCMQ?pid=ImgGn
-  og_image: https://th.bing.com/th/id/OIG.QeEigpqPRyrHzq4TRCMQ?pid=ImgGn
+  image: https://th.bing.com/th/id/OIG.g6AEeVAd8PHcVpXedN2k?pid=ImgGn
+  teaser: https://th.bing.com/th/id/OIG.g6AEeVAd8PHcVpXedN2k?pid=ImgGn
+  og_image: https://th.bing.com/th/id/OIG.g6AEeVAd8PHcVpXedN2k?pid=ImgGn
 date: 2023-08-01
 categories:
   - legaltech
