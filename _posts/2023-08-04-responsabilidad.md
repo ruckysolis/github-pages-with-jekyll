@@ -1,5 +1,5 @@
 ---
-title: "Cómo usar la inteligencia artificial con responsabilidad:"
+title: "Consejos para usar la inteligencia artificial con responsabilidad:"
 header:
   image: https://th.bing.com/th/id/OIG.xcl1i1bZscuD_5rDDjs1?pid=ImgGn
   teaser: https://th.bing.com/th/id/OIG.xcl1i1bZscuD_5rDDjs1?pid=ImgGn
