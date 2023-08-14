@@ -23,6 +23,10 @@ La película tiene una banda sonora espectacular, compuesta por Pritam, uno de l
 
 Chhichhore es una película que no te puedes perder si te gusta el cine indio o si quieres descubrirlo. Es una película que te hará pasar un buen rato y que te llegará al corazón.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tsxemFX0a7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Más información en:
+
 [Chhichhore (2019) - Película eCartelera. ](https://www.ecartelera.com/peliculas/chhichhore/)
 
 [Chhichhore - Wikipedia. ](https://en.wikipedia.org/wiki/Chhichhore)
