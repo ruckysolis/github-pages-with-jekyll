@@ -8,7 +8,7 @@ date: 2023-08-16
 categories:
   - legaltech
 tags:
-  - Inteligencia Artificial
+  - Blockchain
 ---
 
 Una cadena de bloques, también conocida en inglés como blockchain, es una forma de almacenar y transmitir datos de forma segura, transparente y descentralizada. Se trata de una base de datos digital que registra todas las transacciones o eventos que ocurren sobre un determinado activo o recurso, como por ejemplo dinero, documentos, propiedades, contratos, etc. Estos datos se agrupan en bloques que se enlazan entre sí mediante un código criptográfico que garantiza su integridad y su orden cronológico. Cada bloque contiene información sobre el bloque anterior y un sello de tiempo que indica cuándo se creó. De esta manera, se forma una cadena inmutable y verificable de todos los cambios que ha sufrido el activo o recurso desde su origen hasta el presente.
