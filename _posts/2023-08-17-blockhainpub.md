@@ -40,7 +40,4 @@ Espero que este artículo te haya ayudado a comprender mejor qué son las cadena
 - [¿Qué es la cadena de bloques? - Oracle México](https://www.oracle.com/mx/blockchain/what-is-blockchain/)
 - [Cadena de bloques - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Cadena_de_bloques)
 - [¿Qué es una blockchain o cadena de bloques? - CriptoNoticias](https://www.criptonoticias.com/criptopedia/que-es-blockchain-cadena-bloques)
-
-Más información:
-
-[Cadena de bloques (Blockchain): ¿Qué es y cuántas existen?. ](https://higo.io/glosario-contable/c/cadena-de-bloques-blockchain-que-es-y-cuantas-existen/.)
+- [Cadena de bloques (Blockchain): ¿Qué es y cuántas existen?. ](https://higo.io/glosario-contable/c/cadena-de-bloques-blockchain-que-es-y-cuantas-existen/.)
