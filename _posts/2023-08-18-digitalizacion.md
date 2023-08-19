@@ -23,7 +23,8 @@ La digitalización es el proceso de transformar procesos analógicos y objetos f
 
 Como puedes ver, la digitalización es una oportunidad para los abogados que quieren estar a la vanguardia de su profesión y ofrecer un valor añadido a sus clientes. Sin embargo, la digitalización también implica algunos retos y desafíos, como la inversión en tecnología, la formación continua, la adaptación al cambio o la competencia global. Por eso, es importante que los abogados se preparen para afrontar este proceso con una actitud proactiva, creativa y estratégica.
 
+Más información y fuentes
 
 - [Digitalización - Qué es, definición y concepto - 2023 - Economipedia. ](https://economipedia.com/definiciones/digitalizacion.html)
 - [¿Qué es la digitalización? - Experience Dropbox. ](https://experience.dropbox.com/es-la/resources/what-is-digitization)
-- [Qué es la digitalización y su importancia - Universidad UNADE. ](https://unade.edu.mx/que-es-la-digitalizacion-y-por-que-es-importante/.)
+- [Qué es la digitalización y su importancia - Universidad UNADE. ](https://unade.edu.mx/que-es-la-digitalizacion-y-por-que-es-importante/)
