@@ -1,7 +1,7 @@
 ---
 title: "Cadenas de bloques públicas: qué son, cómo funcionan y por qué importan"
 header:
-  image: hhttps://th.bing.com/th/id/OIG.QU75WNccLEJlrbsg.ZZr?pid=ImgGn
+  image: https://th.bing.com/th/id/OIG.QU75WNccLEJlrbsg.ZZr?pid=ImgGn
   teaser: https://th.bing.com/th/id/OIG.QU75WNccLEJlrbsg.ZZr?pid=ImgGn
   og_image: https://th.bing.com/th/id/OIG.QU75WNccLEJlrbsg.ZZr?pid=ImgGn
 date: 2023-08-17
