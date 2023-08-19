@@ -33,7 +33,7 @@ La privacidad es un derecho humano fundamental que implica el respeto a la digni
 
 El tratamiento de los datos personales mediante las credenciales electrónicas puede afectar la privacidad de los usuarios si no se realiza con transparencia, responsabilidad y consentimiento. Por ello, se deben seguir algunos principios básicos para garantizar el cumplimiento de las normas legales y éticas vigentes en materia de protección de datos personales.
 
-Entre estos principios se encuentran los siguientes¹²:
+Entre estos principios se encuentran los siguientes:
 
 - **Finalidad**: Los datos personales solo se deben recabar para fines específicos, explícitos y legítimos, y no se deben tratar posteriormente de manera incompatible con dichos fines.
 - **Minimización**: Los datos personales solo se deben recabar en la medida necesaria para cumplir con los fines establecidos, y no se deben conservar más tiempo del requerido para dichos fines.
