@@ -91,6 +91,8 @@ Las credenciales electrónicas son una herramienta útil y conveniente para acre
 
 Para proteger la privacidad de los usuarios, se deben seguir los principios y buenas prácticas que hemos mencionado en este artículo, así como cumplir con las normas internacionales relativas a la privacidad digital. De esta manera, se podrá aprovechar el potencial de las credenciales electrónicas sin comprometer los derechos fundamentales de las personas.
 
+Más información y fuentes
+
 - [Leyes de protección de datos personales en el mundo y la protección de .... ](https://revista.seguridad.unam.mx/numero-13/leyes-de-protecci%C3%B3n-de-datos-personales-en-el-mundo-y-la-protecci%C3%B3n-de-datos-biom%C3%A9tricos-%E2%80%93)
 - [Normas internacionales relativas a la privacidad digital.](https://www.ohchr.org/es/privacy-in-the-digital-age/international-standards-relating-digital-privacy)
 - [Normas internacionales - OHCHR - UN Human Rights Office. ](https://www.ohchr.org/es/special-procedures/sr-privacy/international-standards)
