@@ -21,7 +21,7 @@ En este artículo, analizaremos algunos aspectos clave que se deben considerar a
 
 ## ¿Qué son las credenciales verificables?
 
-Un concepto relacionado con las credenciales electrónicas es el de las credenciales verificables (VC, por sus siglas en inglés), que son documentos digitales que pueden ser emitidos, almacenados y presentados por una persona, y que pueden ser verificados automáticamente por una máquina sin necesidad de intermediarios³. Las VC se basan en estándares abiertos y tecnologías criptográficas que aseguran la autenticidad, la integridad y la confidencialidad de los datos.
+Un concepto relacionado con las credenciales electrónicas es el de las credenciales verificables (VC, por sus siglas en inglés), que son documentos digitales que pueden ser emitidos, almacenados y presentados por una persona, y que pueden ser verificados automáticamente por una máquina sin necesidad de intermediarios. Las VC se basan en estándares abiertos y tecnologías criptográficas que aseguran la autenticidad, la integridad y la confidencialidad de los datos.
 
 Las VC tienen varias ventajas sobre las credenciales tradicionales, como la reducción del fraude, la mejora de la eficiencia, la interoperabilidad entre diferentes sistemas y la protección de la privacidad. Por ejemplo, una persona podría presentar una VC que demuestre su edad sin revelar su nombre o su fecha de nacimiento, o podría compartir una VC que certifique su grado académico sin exponer su historial escolar completo.
 
