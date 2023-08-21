@@ -22,7 +22,7 @@ Las diligencias virtuales pueden ser de diferentes tipos, según el tipo de proc
 
 ¿Qué ventajas tiene la diligencia virtual?
 
-La diligencia virtual ofrece varias ventajas para los abogados y sus clientes, especialmente en el contexto actual de la pandemia por Covid-19. Algunas de estas ventajas son:
+La diligencia virtual ofrece varias ventajas para los abogados y sus clientes. Algunas de estas ventajas son:
 
 - Agiliza la impartición de justicia, al evitar los retrasos o suspensiones que se pueden generar por la contingencia sanitaria o por otros factores externos.
 - Reduce los costos y tiempos de traslado, al no tener que acudir físicamente a los juzgados o tribunales.
