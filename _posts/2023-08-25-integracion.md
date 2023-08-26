@@ -34,5 +34,5 @@ La integración dual es un reto que implica un cambio cultural y organizativo en
 Fuentes y más información:
 
 - Un [artículo de la revista Estudios Sociales que analiza el Tratado de Libre Comercio de América del Norte (TLCAN)](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-45572011000100004) como una forma de integración económica dualista entre México, Estados Unidos y Canadá.
-- Una [página web de la Secretaría de Educación Pública](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-45572011000100004) que explica el Modelo Mexicano de Formación Dual, que plantea la formación en la empresa y en la escuela de los estudiantes del bachillerato tecnológico.
+- Una [página web de la Secretaría de Educación Pública](https://www.gob.mx/sep/acciones-y-programas/modelo-mexicano-de-formacion-dual) que explica el Modelo Mexicano de Formación Dual, que plantea la formación en la empresa y en la escuela de los estudiantes del bachillerato tecnológico.
 - Un [artículo de la revista Perfiles Educativos](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0185-26982020000300160) que aborda las políticas de innovación en la educación superior y menciona algunos elementos de integración curricular en los modelos de formación dual.
