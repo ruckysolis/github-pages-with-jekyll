@@ -6,9 +6,9 @@ header:
   og_image: https://upload.wikimedia.org/wikipedia/en/1/15/A_Thursday_poster.jpg
 date: 2023-08-27
 categories:
-  - legaltech
+  - Derecho
 tags:
-  - Digitalización
+  - Entretenimiento
 ---
 
 A Thursday (2022) es una película de suspenso y drama que narra la historia de Naina Jaiswal (Yami Gautam), una maestra de preescolar que toma como rehenes a 16 niños de su guardería y exige una serie de condiciones para liberarlos. Entre ellas, está hablar con la primera ministra Maya Rajguru (Dimple Kapadia) y revelar un secreto que sacudirá al país. La película está dirigida por Behzad Khambata y coescrita por Ashely Lobo, y se inspira en la película A Wednesday (2008) de Neeraj Pandey, que también trataba sobre un ciudadano común que desafía al sistema con una acción radical.
