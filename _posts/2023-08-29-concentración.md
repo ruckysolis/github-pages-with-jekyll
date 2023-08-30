@@ -1,9 +1,9 @@
 ---
 title: "Concentración y unicidad en el procedimiento judicial en línea"
 header:
-  image: https://th.bing.com/th/id/OIG.jfWtcHIA5kjvOodUN8vl?pid=ImgGn
-  teaser: https://th.bing.com/th/id/OIG.jfWtcHIA5kjvOodUN8vl?pid=ImgGn
-  og_image: https://th.bing.com/th/id/OIG.jfWtcHIA5kjvOodUN8vl?pid=ImgGn
+  image: https://th.bing.com/th/id/OIG.jbiOyfNQAJ4c0Sx8GrQL?pid=ImgGn
+  teaser: https://th.bing.com/th/id/OIG.jbiOyfNQAJ4c0Sx8GrQL?pid=ImgGn
+  og_image: https://th.bing.com/th/id/OIG.jbiOyfNQAJ4c0Sx8GrQL?pid=ImgGn
 date: 2023-08-29
 categories:
   - legaltech
