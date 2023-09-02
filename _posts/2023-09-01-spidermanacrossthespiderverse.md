@@ -33,4 +33,3 @@ Referencias
 - [TOP 5 Películas para abogados y estudiantes que todos tienen que ver. ](https://hegel.edu.pe/blog/top-5-peliculas-para-abogados-y-estudiantes-que-todos-tienen-que-ver/)
 - [9 películas de abogados que te harán querer estudiar Derecho - ETAC. ](https://www.etac.edu.mx/blog-etac/index.php/peliculas-de-abogados)
 - [Las 100 mejores películas de juicios y abogados - Decine21. ](https://decine21.com/listas-de-cine/lista/las-100-mejores-peliculas-de-juicios-y-abogados-93451)
-- [Spider-Man: Across the Spider-Verse - Wikipedia. ](https://en.wikipedia.org/wiki/Spider-Man:_Across_the_Spider-Verse)
