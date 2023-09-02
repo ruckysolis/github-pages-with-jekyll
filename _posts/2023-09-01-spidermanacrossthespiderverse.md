@@ -1,9 +1,9 @@
 ---
 title: "Spider-Man: Across the Spider-Verse puede inspirar a los abogados a defender los derechos humanos y el bien común."
 header:
-  image: https://upload.wikimedia.org/wikipedia/en/b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg
-  teaser: https://upload.wikimedia.org/wikipedia/en/b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg
-  og_image: https://upload.wikimedia.org/wikipedia/en/b/b4/Spider-Man-_Across_the_Spider-Verse_poster.jpg
+  image: https://upload.wikimedia.org/wikipedia/en/0/0a/Early_Poster_for_across_spiderverse.jpg
+  teaser: https://upload.wikimedia.org/wikipedia/en/0/0a/Early_Poster_for_across_spiderverse.jpg
+  og_image: https://upload.wikimedia.org/wikipedia/en/0/0a/Early_Poster_for_across_spiderverse.jpg
 date: 2023-09-01
 categories:
   - Derecho
