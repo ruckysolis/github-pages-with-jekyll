@@ -1,5 +1,5 @@
 ---
-title: "¿Cómo afecta la inteligencia artificial al mundo jurídico?"
+title: "La inteligencia artificial y sus retos legales: un análisis a partir del B20 Summit India 2023"
 header:
   image: https://th.bing.com/th/id/OIG.FmKMyORfsRyn4jnHXQE6?pid=ImgGn
   teaser: https://th.bing.com/th/id/OIG.FmKMyORfsRyn4jnHXQE6?pid=ImgGn
