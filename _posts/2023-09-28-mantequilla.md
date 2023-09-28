@@ -24,6 +24,6 @@ Emiliano tendrá que enfrentarse a varios obstáculos y enemigos, como Elena Rob
 - Te enseña las técnicas y los trucos que usan los estafadores para engañar a sus víctimas, y cómo puedes detectarlos y prevenirlos.
 - Te divierte con las aventuras y las peripecias de Emiliano y sus cómplices, que te harán reír, emocionarte y sorprenderte con cada episodio.
 
-Así que ya sabes, si quieres ver una serie entretenida, inteligente y original, no te pierdas "El Mantequilla: Maestro de la estafa" en Star+. Estamos seguros de que te va a encantar..
+Así que ya sabes, si quieres ver una serie entretenida, inteligente y original, no te pierdas "El Mantequilla: Maestro de la estafa" en Star+. Estamos seguros de que te va a encantar.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2AaM_16WoCg?si=dkoPIlnW0KI7PxRV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
