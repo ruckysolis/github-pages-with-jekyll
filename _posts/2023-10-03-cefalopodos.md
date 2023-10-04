@@ -23,6 +23,8 @@ Como abogado, la lectura de La montaña en el mar de Ray Nayler puede ser una un
 
 En resumen, *La montaña en el mar* ofrece una mezcla intrigante de ciencia ficción, filosofía y dilemas morales que pueden resonar con los abogados y estimular su reflexión sobre su propia profesión y responsabilidades.
 
+Referencias:
+
 - [La montaña en el mar - Libro de Ray Nayler: reseña ... - Lecturalia](https://www.lecturalia.com/libro/110328/la-montana-en-el-mar)
 - [ LA MONTAÑA EN EL MAR - RAY NAYLER - Casa del Libro.](https://www.casadellibro.com/libro-la-montana-en-el-mar/9788419260109/13586945)
 - [La montaña en el mar - Penguin Libros.](https://www.penguinlibros.com/mx/tematicas/322869-ebook-la-montana-en-el-mar-9788419260116).
